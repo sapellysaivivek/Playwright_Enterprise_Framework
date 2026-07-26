@@ -1,0 +1,77 @@
+{
+    "success": true,
+    "status": 200,
+    "message": "Notes successfully retrieved",
+    "data": [
+        {
+            "id": "6a6622c006f2370295f92745",
+            "title": "title129",
+            "description": "this is random description",
+            "category": "Personal",
+            "completed": true,
+            "created_at": "2026-07-26T15:07:44.603Z",
+            "updated_at": "2026-07-26T15:07:44.603Z",
+            "user_id": "69fa990381124e02985a971b"
+        },
+        {
+            "id": "6a6621ef06f2370295f92662",
+            "title": "title660",
+            "description": "A random description",
+            "category": "Personal",
+            "completed": true,
+            "created_at": "2026-07-26T15:04:15.113Z",
+            "updated_at": "2026-07-26T15:04:15.113Z",
+            "user_id": "69fa990381124e02985a971b"
+        },
+        {
+            "id": "6a6621cf06f2370295f92638",
+            "title": "Title",
+            "description": "avjlqhbrvq;kv",
+            "category": "Home",
+            "completed": false,
+            "created_at": "2026-07-26T15:03:43.263Z",
+            "updated_at": "2026-07-26T15:03:43.263Z",
+            "user_id": "69fa990381124e02985a971b"
+        },
+        {
+            "id": "6a6621c506f2370295f925e4",
+            "title": "title526",
+            "description": "avjlqhbrvq;kv",
+            "category": "Home",
+            "completed": false,
+            "created_at": "2026-07-26T15:03:33.576Z",
+            "updated_at": "2026-07-26T15:03:33.576Z",
+            "user_id": "69fa990381124e02985a971b"
+        },
+        {
+            "id": "6a6621c506f2370295f925e0",
+            "title": "title660",
+            "description": "avjlqhbrvq;kv",
+            "category": "Home",
+            "completed": false,
+            "created_at": "2026-07-26T15:03:33.201Z",
+            "updated_at": "2026-07-26T15:03:33.201Z",
+            "user_id": "69fa990381124e02985a971b"
+        },
+        {
+            "id": "6a66145b06f2370295f922f5",
+            "title": "title629",
+            "description": "a random description",
+            "category": "Personal",
+            "completed": true,
+            "created_at": "2026-07-26T14:06:19.065Z",
+            "updated_at": "2026-07-26T14:06:19.065Z",
+            "user_id": "69fa990381124e02985a971b"
+        },
+        {
+            "id": "6a66143106f2370295f922da",
+            "title": "Title",
+            "description": "avjlqhbrvq;kv",
+            "category": "Home",
+            "completed": false,
+            "created_at": "2026-07-26T14:05:37.948Z",
+            "updated_at": "2026-07-26T14:05:37.948Z",
+            "user_id": "69fa990381124e02985a971b"
+        }
+    ]
+}

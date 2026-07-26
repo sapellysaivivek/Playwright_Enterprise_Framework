@@ -1,0 +1,1 @@
+[31mCRITICAL[0m tests.api.test_note_api:test_note_api.py:457 Testing access to GET /notes without authentication

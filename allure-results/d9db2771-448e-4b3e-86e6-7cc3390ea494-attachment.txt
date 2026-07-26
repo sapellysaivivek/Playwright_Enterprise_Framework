@@ -1,0 +1,3 @@
+[31mCRITICAL[0m conftest:conftest.py:34 backend_url:https://practice.expandtesting.com/notes/api/
+[31mCRITICAL[0m tests.api.test_note_api:test_note_api.py:308 Testing POST /notes response time
+[32mINFO    [0m tests.api.test_note_api:test_note_api.py:363 Average response time for POST /notes: 345.81 ms

@@ -1,0 +1,15 @@
+{
+"valid_login_details":{
+"email":"saiviveksapelly@gmail.com",
+"password":"142536475869"
+},
+"invalid_login_details":[{
+    "email":"saiviveksapelly@gmail.com",
+    "password":"415263748596"
+},
+{
+    "email":"saiiivivek@gmail.com",
+    "password":"142536475869"
+}
+]
+}

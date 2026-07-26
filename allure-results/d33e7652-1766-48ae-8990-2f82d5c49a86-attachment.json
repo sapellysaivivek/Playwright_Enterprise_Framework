@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "status": 200,
+    "message": "Note successfully created",
+    "data": {
+        "id": "6a66228906f2370295f926fb",
+        "title": "Title",
+        "description": "avjlqhbrvq;kv",
+        "category": "Home",
+        "completed": false,
+        "created_at": "2026-07-26T15:06:49.057Z",
+        "updated_at": "2026-07-26T15:06:49.057Z",
+        "user_id": "69fa990381124e02985a971b"
+    }
+}

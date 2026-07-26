@@ -1,0 +1,9 @@
+[35mDEBUG   [0m tests.ui.test_login:test_login.py:93 Trying to login with empty credentials
+[35mDEBUG   [0m LoginPage:loginPage.py:30 Starting login process
+[35mDEBUG   [0m LoginPage:loginPage.py:16 Navigating to login page: https://practice.expandtesting.com/notes/app/login
+[35mDEBUG   [0m LoginPage:loginPage.py:19 Filling in email: 
+[31mCRITICAL[0m LoginPage:loginPage.py:21 filled in successfully
+[35mDEBUG   [0m LoginPage:loginPage.py:23 Filling in password: 
+[35mDEBUG   [0m LoginPage:loginPage.py:26 Clicking the login button
+[35mDEBUG   [0m LoginPage:loginPage.py:35 Login process completed
+[35mDEBUG   [0m conftest:conftest.py:18 ending page

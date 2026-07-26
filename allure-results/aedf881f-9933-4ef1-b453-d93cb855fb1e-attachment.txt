@@ -1,0 +1,3 @@
+[31mCRITICAL[0m conftest:conftest.py:34 backend_url:https://practice.expandtesting.com/notes/api/
+[32mINFO    [0m test_new_notes:test_new_notes.py:92 Note is visible in UI
+[32mINFO    [0m test_new_notes:test_new_notes.py:104 Note deleted successfully

@@ -1,0 +1,6 @@
+[31mCRITICAL[0m tests.ui.test_note:test_note.py:119 Testing creation of note with empty title
+[35mDEBUG   [0m NotePage:notePage.py:13 adding new note
+[35mDEBUG   [0m NotePage:notePage.py:16 choosing category
+[35mDEBUG   [0m NotePage:notePage.py:20 filling title
+[35mDEBUG   [0m NotePage:notePage.py:24 filling description
+[35mDEBUG   [0m NotePage:notePage.py:27 submitting this note

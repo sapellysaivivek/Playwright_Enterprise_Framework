@@ -1,0 +1,5 @@
+Request 1: 410.84 ms
+Request 2: 351.32 ms
+Request 3: 351.66 ms
+Request 4: 339.22 ms
+Request 5: 336.40 ms

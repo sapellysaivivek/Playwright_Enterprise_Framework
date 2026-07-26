@@ -1,0 +1,1 @@
+Average Response Time: 342.20 ms

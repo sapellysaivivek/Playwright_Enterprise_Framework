@@ -1,0 +1,1269 @@
+2026-07-23 11:45:55 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 11:45:55 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-23 11:45:55 - INFO - creating a note - tests.api.test_note_api
+2026-07-23 11:46:21 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 11:46:21 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-23 11:46:21 - INFO - creating a note - tests.api.test_note_api
+2026-07-23 11:50:12 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 11:50:12 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-23 11:50:12 - INFO - creating a note - tests.api.test_note_api
+2026-07-23 11:51:34 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 11:51:35 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-23 11:51:35 - INFO - creating a note - tests.api.test_note_api
+2026-07-23 11:51:59 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 11:51:59 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-23 11:51:59 - INFO - creating a note - tests.api.test_note_api
+2026-07-23 11:52:43 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 11:52:43 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-23 11:52:43 - INFO - creating a note - tests.api.test_note_api
+2026-07-23 11:53:06 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 11:53:06 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-23 11:53:06 - INFO - creating a note - tests.api.test_note_api
+2026-07-23 11:53:29 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 11:53:29 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-23 11:53:29 - INFO - creating a note - tests.api.test_note_api
+2026-07-23 11:54:23 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 11:54:23 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-23 11:54:23 - INFO - creating a note - tests.api.test_note_api
+2026-07-23 15:14:23 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 15:14:30 - INFO - note is created and is visible - test_new_notes
+2026-07-23 15:14:31 - INFO - note is delted - test_new_notes
+2026-07-23 15:36:16 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 15:36:16 - DEBUG - testing GET/notes responce  - tests.api.test_note_api
+2026-07-23 15:36:18 - INFO - notes are acssesible - tests.api.test_note_api
+2026-07-23 15:36:18 - DEBUG - testing GET/notes for new user - tests.api.test_note_api
+2026-07-23 15:36:18 - DEBUG - registering new user with email: sapellysaivivek8000@gmail.com and password: 142536475869 - tests.api.test_note_api
+2026-07-23 15:36:19 - INFO - 200 - tests.api.test_note_api
+2026-07-23 15:36:19 - INFO - {"success":true,"status":200,"message":"No notes found","data":[]} - tests.api.test_note_api
+2026-07-23 15:36:19 - DEBUG - notes for new user:  - tests.api.test_note_api
+2026-07-23 15:36:19 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 15:36:19 - CRITICAL - testing Get/notes/id is valid - tests.api.test_note_api
+2026-07-23 15:36:19 - DEBUG - creating a note for this notes api - tests.api.test_note_api
+2026-07-23 15:36:21 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 15:36:21 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-23 15:36:21 - INFO - creating a note - tests.api.test_note_api
+2026-07-23 15:36:22 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 15:36:22 - DEBUG - testing GET/notes responce time - tests.api.test_note_api
+2026-07-23 15:36:22 - DEBUG - making request 1 to /notes endpoint - tests.api.test_note_api
+2026-07-23 15:36:22 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-23 15:36:22 - DEBUG - making request 2 to /notes endpoint - tests.api.test_note_api
+2026-07-23 15:36:23 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-23 15:36:23 - DEBUG - making request 3 to /notes endpoint - tests.api.test_note_api
+2026-07-23 15:36:23 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-23 15:36:23 - DEBUG - making request 4 to /notes endpoint - tests.api.test_note_api
+2026-07-23 15:36:23 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-23 15:36:23 - DEBUG - making request 5 to /notes endpoint - tests.api.test_note_api
+2026-07-23 15:36:24 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-23 15:36:24 - INFO - average responce time for /notes endpoint is 404.381440000725 ms - tests.api.test_note_api
+2026-07-23 15:56:59 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 15:56:59 - CRITICAL - testing Post/notes response time - tests.api.test_note_api
+2026-07-23 15:57:01 - INFO - average responce time for /notes endpoint is 0.4281563199998345 ms - tests.api.test_note_api
+2026-07-23 15:57:02 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 15:57:08 - INFO - note is created and is visible - test_new_notes
+2026-07-23 15:57:08 - INFO - note is delted - test_new_notes
+2026-07-23 16:03:47 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 16:03:48 - CRITICAL - testing Post/notes response time - tests.api.test_note_api
+2026-07-23 16:04:13 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 16:04:13 - CRITICAL - testing Post/notes response time - tests.api.test_note_api
+2026-07-23 16:04:18 - INFO - average responce time for /notes endpoint is 0.5247146200039424 ms - tests.api.test_note_api
+2026-07-23 16:25:10 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 16:25:11 - CRITICAL - testing delete response time  - tests.api.test_note_api
+2026-07-23 16:26:01 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 16:26:02 - CRITICAL - testing delete response time  - tests.api.test_note_api
+2026-07-23 16:26:22 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 16:26:22 - CRITICAL - testing delete response time  - tests.api.test_note_api
+2026-07-23 16:28:57 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-23 16:28:57 - CRITICAL - testing delete response time  - tests.api.test_note_api
+2026-07-23 16:29:02 - INFO - response time for delete request 0.4898842600028729 - tests.api.test_note_api
+2026-07-23 20:07:56 - CRITICAL -  testin accsessing notes without authentication - tests.api.test_note_api
+2026-07-23 20:08:15 - CRITICAL -  testin accsessing notes without authentication - tests.api.test_note_api
+2026-07-24 14:19:33 - CRITICAL -  testin accsessing notes without authentication - tests.api.test_note_api
+2026-07-24 14:19:40 - CRITICAL - testing creation of with empty title - tests.ui.test_note
+2026-07-24 14:19:54 - DEBUG - adding new note - NotePage
+2026-07-24 14:19:54 - DEBUG - choosing category - NotePage
+2026-07-24 14:19:54 - DEBUG - filling title - NotePage
+2026-07-24 14:19:54 - DEBUG - filling description - NotePage
+2026-07-24 14:19:55 - DEBUG - submitting this note - NotePage
+2026-07-24 14:21:38 - CRITICAL -  testin accsessing notes without authentication - tests.api.test_note_api
+2026-07-24 14:21:42 - CRITICAL - testing creation of with empty title - tests.ui.test_note
+2026-07-24 14:21:51 - DEBUG - adding new note - NotePage
+2026-07-24 14:21:51 - DEBUG - choosing category - NotePage
+2026-07-24 14:21:52 - DEBUG - filling title - NotePage
+2026-07-24 14:21:52 - DEBUG - filling description - NotePage
+2026-07-24 14:21:52 - DEBUG - submitting this note - NotePage
+2026-07-24 14:23:21 - CRITICAL -  testin accsessing notes without authentication - tests.api.test_note_api
+2026-07-24 14:23:26 - CRITICAL - testing creation of with empty title - tests.ui.test_note
+2026-07-24 14:23:34 - DEBUG - adding new note - NotePage
+2026-07-24 14:23:34 - DEBUG - choosing category - NotePage
+2026-07-24 14:23:34 - DEBUG - filling title - NotePage
+2026-07-24 14:23:34 - DEBUG - filling description - NotePage
+2026-07-24 14:23:34 - DEBUG - submitting this note - NotePage
+2026-07-24 14:28:11 - CRITICAL -  testin accsessing notes without authentication - tests.api.test_note_api
+2026-07-24 14:28:15 - CRITICAL - testing with a blank title - tests.ui.test_note
+2026-07-24 14:28:22 - DEBUG - adding new note - NotePage
+2026-07-24 14:28:22 - DEBUG - choosing category - NotePage
+2026-07-24 14:28:23 - DEBUG - filling title - NotePage
+2026-07-24 14:28:23 - DEBUG - filling description - NotePage
+2026-07-24 14:28:23 - DEBUG - submitting this note - NotePage
+2026-07-24 14:42:04 - CRITICAL - testing with a blank title - tests.ui.test_note
+2026-07-24 14:42:11 - DEBUG - adding new note - NotePage
+2026-07-24 14:42:11 - DEBUG - choosing category - NotePage
+2026-07-24 14:42:11 - DEBUG - filling title - NotePage
+2026-07-24 14:42:11 - DEBUG - filling description - NotePage
+2026-07-24 14:42:12 - DEBUG - submitting this note - NotePage
+2026-07-24 17:53:10 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 17:55:40 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 18:45:20 - DEBUG - adding new note - NotePage
+2026-07-24 18:45:20 - DEBUG - choosing category - NotePage
+2026-07-24 18:45:20 - DEBUG - filling title - NotePage
+2026-07-24 18:45:20 - DEBUG - filling description - NotePage
+2026-07-24 18:45:20 - DEBUG - submitting this note - NotePage
+2026-07-24 18:45:26 - DEBUG - adding new note - NotePage
+2026-07-24 18:45:26 - DEBUG - choosing category - NotePage
+2026-07-24 18:45:26 - DEBUG - filling title - NotePage
+2026-07-24 18:45:26 - DEBUG - filling description - NotePage
+2026-07-24 18:45:26 - DEBUG - submitting this note - NotePage
+2026-07-24 19:06:18 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:06:19 - DEBUG - testing GET/notes responce  - tests.api.test_note_api
+2026-07-24 19:06:20 - INFO - notes are acssesible - tests.api.test_note_api
+2026-07-24 19:06:20 - DEBUG - testing GET/notes for new user - tests.api.test_note_api
+2026-07-24 19:06:21 - DEBUG - registering new user with email: sapellysaivivek33181@gmail.com and password: 142536475869 - tests.api.test_note_api
+2026-07-24 19:06:21 - INFO - 200 - tests.api.test_note_api
+2026-07-24 19:06:21 - INFO - {"success":true,"status":200,"message":"No notes found","data":[]} - tests.api.test_note_api
+2026-07-24 19:06:21 - DEBUG - notes for new user:  - tests.api.test_note_api
+2026-07-24 19:06:22 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:06:22 - CRITICAL - testing Get/notes/id is valid - tests.api.test_note_api
+2026-07-24 19:06:22 - DEBUG - creating a note for this notes api - tests.api.test_note_api
+2026-07-24 19:06:23 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:06:23 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-24 19:06:23 - INFO - creating a note - tests.api.test_note_api
+2026-07-24 19:06:24 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:06:24 - DEBUG - testing GET/notes responce time - tests.api.test_note_api
+2026-07-24 19:06:24 - DEBUG - making request 1 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:06:24 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:06:24 - DEBUG - making request 2 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:06:24 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:06:24 - DEBUG - making request 3 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:06:25 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:06:25 - DEBUG - making request 4 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:06:25 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:06:25 - DEBUG - making request 5 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:06:25 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:06:25 - INFO - average responce time for /notes endpoint is 347.75903999689035 ms - tests.api.test_note_api
+2026-07-24 19:06:25 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:06:25 - CRITICAL - testing Post/notes response time - tests.api.test_note_api
+2026-07-24 19:06:29 - INFO - average responce time for /notes endpoint is 0.3525681400031317 ms - tests.api.test_note_api
+2026-07-24 19:06:29 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:06:29 - CRITICAL - testing delete response time  - tests.api.test_note_api
+2026-07-24 19:06:33 - INFO - response time for delete request 0.3517386399966199 - tests.api.test_note_api
+2026-07-24 19:06:33 - CRITICAL -  testin accsessing notes without authentication - tests.api.test_note_api
+2026-07-24 19:06:33 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:06:36 - DEBUG - addind new note - tests.ui.test_note
+2026-07-24 19:06:42 - DEBUG - adding new note - NotePage
+2026-07-24 19:06:42 - DEBUG - choosing category - NotePage
+2026-07-24 19:06:42 - DEBUG - filling title - NotePage
+2026-07-24 19:06:42 - DEBUG - filling description - NotePage
+2026-07-24 19:06:42 - DEBUG - submitting this note - NotePage
+2026-07-24 19:06:44 - DEBUG - deleting note with title: Title764 - NotePage
+2026-07-24 19:06:44 - DEBUG - creating note with only title - tests.ui.test_note
+2026-07-24 19:06:47 - DEBUG - adding new note - NotePage
+2026-07-24 19:06:47 - DEBUG - choosing category - NotePage
+2026-07-24 19:06:47 - DEBUG - filling title - NotePage
+2026-07-24 19:06:47 - DEBUG - filling description - NotePage
+2026-07-24 19:06:47 - DEBUG - submitting this note - NotePage
+2026-07-24 19:06:47 - DEBUG - testing weather a note appears without refresh - tests.ui.test_note
+2026-07-24 19:06:50 - DEBUG - adding new note - NotePage
+2026-07-24 19:06:50 - DEBUG - choosing category - NotePage
+2026-07-24 19:06:50 - DEBUG - filling title - NotePage
+2026-07-24 19:06:50 - DEBUG - filling description - NotePage
+2026-07-24 19:06:50 - DEBUG - submitting this note - NotePage
+2026-07-24 19:06:50 - DEBUG - new note is successfully made - tests.ui.test_note
+2026-07-24 19:06:52 - CRITICAL - testing creation of with empty title - tests.ui.test_note
+2026-07-24 19:06:54 - DEBUG - adding new note - NotePage
+2026-07-24 19:06:54 - DEBUG - choosing category - NotePage
+2026-07-24 19:06:54 - DEBUG - filling title - NotePage
+2026-07-24 19:06:54 - DEBUG - filling description - NotePage
+2026-07-24 19:06:54 - DEBUG - submitting this note - NotePage
+2026-07-24 19:06:55 - CRITICAL - testing with a blank title - tests.ui.test_note
+2026-07-24 19:06:57 - DEBUG - adding new note - NotePage
+2026-07-24 19:06:57 - DEBUG - choosing category - NotePage
+2026-07-24 19:06:57 - DEBUG - filling title - NotePage
+2026-07-24 19:06:57 - DEBUG - filling description - NotePage
+2026-07-24 19:06:57 - DEBUG - submitting this note - NotePage
+2026-07-24 19:07:00 - DEBUG - adding new note - NotePage
+2026-07-24 19:07:00 - DEBUG - choosing category - NotePage
+2026-07-24 19:07:00 - DEBUG - filling title - NotePage
+2026-07-24 19:07:00 - DEBUG - filling description - NotePage
+2026-07-24 19:07:00 - DEBUG - submitting this note - NotePage
+2026-07-24 19:07:04 - DEBUG - adding new note - NotePage
+2026-07-24 19:07:04 - DEBUG - choosing category - NotePage
+2026-07-24 19:07:04 - DEBUG - filling title - NotePage
+2026-07-24 19:07:04 - DEBUG - filling description - NotePage
+2026-07-24 19:07:04 - DEBUG - submitting this note - NotePage
+2026-07-24 19:07:04 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:07:04 - DEBUG - creating a note to check if it appears in API - test_new_notes
+2026-07-24 19:07:08 - DEBUG - adding new note - NotePage
+2026-07-24 19:07:08 - DEBUG - choosing category - NotePage
+2026-07-24 19:07:08 - DEBUG - filling title - NotePage
+2026-07-24 19:07:08 - DEBUG - filling description - NotePage
+2026-07-24 19:07:08 - DEBUG - submitting this note - NotePage
+2026-07-24 19:07:08 - CRITICAL - url : https://practice.expandtesting.com/notes/api/notes - test_new_notes
+2026-07-24 19:07:09 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:07:11 - INFO - note is created and is visible - test_new_notes
+2026-07-24 19:07:12 - INFO - note is delted - test_new_notes
+2026-07-24 19:12:59 - DEBUG - starting browser - conftest
+2026-07-24 19:12:59 - INFO - successfully logged in - tests.ui.test_login
+2026-07-24 19:12:59 - DEBUG - Starting the authentication test - tests.ui.test_login
+2026-07-24 19:12:59 - DEBUG - Starting login process - LoginPage
+2026-07-24 19:12:59 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 19:13:03 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-24 19:13:03 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 19:13:03 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-24 19:13:03 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 19:13:03 - DEBUG - Login process completed - LoginPage
+2026-07-24 19:13:03 - DEBUG - successfully login - tests.ui.test_login
+2026-07-24 19:13:04 - DEBUG - ending browser - conftest
+2026-07-24 19:13:05 - DEBUG - starting browser - conftest
+2026-07-24 19:13:05 - DEBUG - Starting login process - LoginPage
+2026-07-24 19:13:05 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 19:13:08 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-24 19:13:08 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 19:13:08 - DEBUG - Filling in password: 1455636475869 - LoginPage
+2026-07-24 19:13:08 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 19:13:08 - DEBUG - Login process completed - LoginPage
+2026-07-24 19:13:09 - DEBUG - ending browser - conftest
+2026-07-24 19:13:10 - DEBUG - starting browser - conftest
+2026-07-24 19:13:10 - DEBUG - Starting login process - LoginPage
+2026-07-24 19:13:10 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 19:13:14 - DEBUG - Filling in email: saisaiiii@gmail.com - LoginPage
+2026-07-24 19:13:14 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 19:13:14 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-24 19:13:14 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 19:13:14 - DEBUG - Login process completed - LoginPage
+2026-07-24 19:13:14 - DEBUG - ending browser - conftest
+2026-07-24 19:13:15 - DEBUG - starting browser - conftest
+2026-07-24 19:13:15 - DEBUG - trying to loggin with empty credentials - tests.ui.test_login
+2026-07-24 19:13:15 - DEBUG - Starting login process - LoginPage
+2026-07-24 19:13:15 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 19:13:18 - DEBUG - Filling in email:  - LoginPage
+2026-07-24 19:13:18 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 19:13:18 - DEBUG - Filling in password:  - LoginPage
+2026-07-24 19:13:18 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 19:13:18 - DEBUG - Login process completed - LoginPage
+2026-07-24 19:13:18 - DEBUG - ending browser - conftest
+2026-07-24 19:14:58 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:14:58 - DEBUG - testing GET/notes responce  - tests.api.test_note_api
+2026-07-24 19:15:00 - INFO - notes are acssesible - tests.api.test_note_api
+2026-07-24 19:15:00 - DEBUG - testing GET/notes for new user - tests.api.test_note_api
+2026-07-24 19:15:00 - DEBUG - registering new user with email: sapellysaivivek77437@gmail.com and password: 142536475869 - tests.api.test_note_api
+2026-07-24 19:15:01 - INFO - 200 - tests.api.test_note_api
+2026-07-24 19:15:01 - INFO - {"success":true,"status":200,"message":"No notes found","data":[]} - tests.api.test_note_api
+2026-07-24 19:15:01 - DEBUG - notes for new user:  - tests.api.test_note_api
+2026-07-24 19:15:01 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:15:01 - CRITICAL - testing Get/notes/id is valid - tests.api.test_note_api
+2026-07-24 19:15:01 - DEBUG - creating a note for this notes api - tests.api.test_note_api
+2026-07-24 19:15:02 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:15:02 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-24 19:15:02 - INFO - creating a note - tests.api.test_note_api
+2026-07-24 19:15:03 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:15:03 - DEBUG - testing GET/notes responce time - tests.api.test_note_api
+2026-07-24 19:15:03 - DEBUG - making request 1 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:15:03 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:15:03 - DEBUG - making request 2 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:15:03 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:15:03 - DEBUG - making request 3 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:15:03 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:15:03 - DEBUG - making request 4 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:15:04 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:15:04 - DEBUG - making request 5 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:15:04 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:15:04 - INFO - average responce time for /notes endpoint is 283.3756599982735 ms - tests.api.test_note_api
+2026-07-24 19:15:04 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:15:04 - CRITICAL - testing Post/notes response time - tests.api.test_note_api
+2026-07-24 19:15:07 - INFO - average responce time for /notes endpoint is 0.312679740000749 ms - tests.api.test_note_api
+2026-07-24 19:15:07 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:15:07 - CRITICAL - testing delete response time  - tests.api.test_note_api
+2026-07-24 19:15:10 - INFO - response time for delete request 0.29412024000776 - tests.api.test_note_api
+2026-07-24 19:15:10 - CRITICAL -  testin accsessing notes without authentication - tests.api.test_note_api
+2026-07-24 19:15:10 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:15:12 - DEBUG - addind new note - tests.ui.test_note
+2026-07-24 19:15:16 - DEBUG - adding new note - NotePage
+2026-07-24 19:15:16 - DEBUG - choosing category - NotePage
+2026-07-24 19:15:16 - DEBUG - filling title - NotePage
+2026-07-24 19:15:16 - DEBUG - filling description - NotePage
+2026-07-24 19:15:16 - DEBUG - submitting this note - NotePage
+2026-07-24 19:15:18 - DEBUG - deleting note with title: Title595 - NotePage
+2026-07-24 19:15:19 - DEBUG - creating note with only title - tests.ui.test_note
+2026-07-24 19:15:21 - DEBUG - adding new note - NotePage
+2026-07-24 19:15:21 - DEBUG - choosing category - NotePage
+2026-07-24 19:15:21 - DEBUG - filling title - NotePage
+2026-07-24 19:15:21 - DEBUG - filling description - NotePage
+2026-07-24 19:15:21 - DEBUG - submitting this note - NotePage
+2026-07-24 19:15:21 - DEBUG - testing weather a note appears without refresh - tests.ui.test_note
+2026-07-24 19:15:26 - DEBUG - adding new note - NotePage
+2026-07-24 19:15:26 - DEBUG - choosing category - NotePage
+2026-07-24 19:15:26 - DEBUG - filling title - NotePage
+2026-07-24 19:15:26 - DEBUG - filling description - NotePage
+2026-07-24 19:15:26 - DEBUG - submitting this note - NotePage
+2026-07-24 19:15:26 - DEBUG - new note is successfully made - tests.ui.test_note
+2026-07-24 19:15:28 - CRITICAL - testing creation of with empty title - tests.ui.test_note
+2026-07-24 19:15:32 - DEBUG - adding new note - NotePage
+2026-07-24 19:15:32 - DEBUG - choosing category - NotePage
+2026-07-24 19:15:32 - DEBUG - filling title - NotePage
+2026-07-24 19:15:32 - DEBUG - filling description - NotePage
+2026-07-24 19:15:32 - DEBUG - submitting this note - NotePage
+2026-07-24 19:15:32 - CRITICAL - testing with a blank title - tests.ui.test_note
+2026-07-24 19:15:35 - DEBUG - adding new note - NotePage
+2026-07-24 19:15:35 - DEBUG - choosing category - NotePage
+2026-07-24 19:15:35 - DEBUG - filling title - NotePage
+2026-07-24 19:15:35 - DEBUG - filling description - NotePage
+2026-07-24 19:15:35 - DEBUG - submitting this note - NotePage
+2026-07-24 19:15:38 - DEBUG - adding new note - NotePage
+2026-07-24 19:15:38 - DEBUG - choosing category - NotePage
+2026-07-24 19:15:38 - DEBUG - filling title - NotePage
+2026-07-24 19:15:38 - DEBUG - filling description - NotePage
+2026-07-24 19:15:38 - DEBUG - submitting this note - NotePage
+2026-07-24 19:15:43 - DEBUG - adding new note - NotePage
+2026-07-24 19:15:43 - DEBUG - choosing category - NotePage
+2026-07-24 19:15:43 - DEBUG - filling title - NotePage
+2026-07-24 19:15:43 - DEBUG - filling description - NotePage
+2026-07-24 19:15:43 - DEBUG - submitting this note - NotePage
+2026-07-24 19:15:43 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:15:43 - DEBUG - creating a note to check if it appears in API - test_new_notes
+2026-07-24 19:15:46 - DEBUG - adding new note - NotePage
+2026-07-24 19:15:46 - DEBUG - choosing category - NotePage
+2026-07-24 19:15:46 - DEBUG - filling title - NotePage
+2026-07-24 19:15:46 - DEBUG - filling description - NotePage
+2026-07-24 19:15:46 - DEBUG - submitting this note - NotePage
+2026-07-24 19:15:46 - CRITICAL - url : https://practice.expandtesting.com/notes/api/notes - test_new_notes
+2026-07-24 19:15:46 - DEBUG - Note found in API: [{'id': '6a636c8e06f2370295f8e6ad', 'title': 'title93', 'description': 'this is random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:45:50.238Z', 'updated_at': '2026-07-24T13:45:50.238Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636c8606f2370295f8e6a5', 'title': '$@!<!>[#', 'description': 'this is the description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:45:42.647Z', 'updated_at': '2026-07-24T13:45:42.647Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636c7a06f2370295f8e698', 'title': 'title93', 'description': 'a random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:45:30.658Z', 'updated_at': '2026-07-24T13:45:30.658Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636c7006f2370295f8e68e', 'title': 'Title595', 'description': 'this is just a random content', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:45:20.664Z', 'updated_at': '2026-07-24T13:45:20.664Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636c6a06f2370295f8e688', 'title': 'Title', 'description': 'avjlqhbrvq;kv', 'category': 'Home', 'completed': False, 'created_at': '2026-07-24T13:45:14.945Z', 'updated_at': '2026-07-24T13:45:14.945Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636a8806f2370295f8e5dd', 'title': 'title957', 'description': 'this is random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:37:12.511Z', 'updated_at': '2026-07-24T13:37:12.511Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636a8006f2370295f8e5d5', 'title': '$@!<!>[#', 'description': 'this is the description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:37:04.387Z', 'updated_at': '2026-07-24T13:37:04.387Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636a7606f2370295f8e5c8', 'title': 'title388', 'description': 'a random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:36:54.394Z', 'updated_at': '2026-07-24T13:36:54.394Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636a6e06f2370295f8e5be', 'title': 'Title764', 'description': 'this is just a random content', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:36:46.391Z', 'updated_at': '2026-07-24T13:36:46.391Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636a6506f2370295f8e5b8', 'title': 'Title', 'description': 'avjlqhbrvq;kv', 'category': 'Home', 'completed': False, 'created_at': '2026-07-24T13:36:37.457Z', 'updated_at': '2026-07-24T13:36:37.457Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a63656c06f2370295f8dd0f', 'title': '$@!<!>[#', 'description': 'this is the description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:15:24.384Z', 'updated_at': '2026-07-24T13:15:24.384Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a6359c906f2370295f8cfd9', 'title': 'Title', 'description': 'avjlqhbrvq;kv', 'category': 'Home', 'completed': False, 'created_at': '2026-07-24T12:25:45.507Z', 'updated_at': '2026-07-24T12:25:45.507Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a63593306f2370295f8cf60', 'title': 'Title', 'description': 'avjlqhbrvq;kv', 'category': 'Home', 'completed': False, 'created_at': '2026-07-24T12:23:15.341Z', 'updated_at': '2026-07-24T12:23:15.341Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a61e725fda22d0295a95b01', 'title': 'ldsL:V', 'description': 'dvsL d', 'category': 'Home', 'completed': True, 'created_at': '2026-07-23T10:04:21.410Z', 'updated_at': '2026-07-23T10:04:21.410Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a61e71afda22d0295a95afb', 'title': 'svkld', 'description': 'lvdmkLS', 'category': 'Home', 'completed': True, 'created_at': '2026-07-23T10:04:10.571Z', 'updated_at': '2026-07-23T10:04:10.571Z', 'user_id': '69fa990381124e02985a971b'}] - test_new_notes
+2026-07-24 19:15:46 - DEBUG - deleting note with title: title93 - NotePage
+2026-07-24 19:15:48 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:15:51 - INFO - note is created and is visible - test_new_notes
+2026-07-24 19:15:51 - INFO - note is delted - test_new_notes
+2026-07-24 19:21:00 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:21:00 - DEBUG - testing GET/notes responce  - tests.api.test_note_api
+2026-07-24 19:21:01 - INFO - notes are acssesible - tests.api.test_note_api
+2026-07-24 19:21:01 - DEBUG - testing GET/notes for new user - tests.api.test_note_api
+2026-07-24 19:21:02 - DEBUG - registering new user with email: sapellysaivivek28302@gmail.com and password: 142536475869 - tests.api.test_note_api
+2026-07-24 19:21:03 - INFO - 200 - tests.api.test_note_api
+2026-07-24 19:21:03 - INFO - {"success":true,"status":200,"message":"No notes found","data":[]} - tests.api.test_note_api
+2026-07-24 19:21:03 - DEBUG - notes for new user:  - tests.api.test_note_api
+2026-07-24 19:21:03 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:21:03 - CRITICAL - testing Get/notes/id is valid - tests.api.test_note_api
+2026-07-24 19:21:03 - DEBUG - creating a note for this notes api - tests.api.test_note_api
+2026-07-24 19:21:04 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:21:04 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-24 19:21:04 - INFO - creating a note - tests.api.test_note_api
+2026-07-24 19:21:05 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:21:05 - DEBUG - testing GET/notes responce time - tests.api.test_note_api
+2026-07-24 19:21:05 - DEBUG - making request 1 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:21:05 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:21:05 - DEBUG - making request 2 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:21:05 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:21:05 - DEBUG - making request 3 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:21:06 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:21:06 - DEBUG - making request 4 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:21:06 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:21:06 - DEBUG - making request 5 to /notes endpoint - tests.api.test_note_api
+2026-07-24 19:21:06 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 19:21:06 - INFO - average responce time for /notes endpoint is 304.2719999910332 ms - tests.api.test_note_api
+2026-07-24 19:21:06 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:21:06 - CRITICAL - testing Post/notes response time - tests.api.test_note_api
+2026-07-24 19:21:09 - INFO - average responce time for /notes endpoint is 0.30543397999717853 ms - tests.api.test_note_api
+2026-07-24 19:21:09 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:21:10 - CRITICAL - testing delete response time  - tests.api.test_note_api
+2026-07-24 19:21:13 - INFO - response time for delete request 0.30006672000163237 - tests.api.test_note_api
+2026-07-24 19:21:13 - CRITICAL -  testin accsessing notes without authentication - tests.api.test_note_api
+2026-07-24 19:21:13 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:21:16 - INFO - successfully logged in - tests.ui.test_login
+2026-07-24 19:21:16 - DEBUG - Starting the authentication test - tests.ui.test_login
+2026-07-24 19:21:16 - DEBUG - Starting login process - LoginPage
+2026-07-24 19:21:16 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 19:21:19 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-24 19:21:19 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 19:21:19 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-24 19:21:19 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 19:21:19 - DEBUG - Login process completed - LoginPage
+2026-07-24 19:21:19 - DEBUG - successfully login - tests.ui.test_login
+2026-07-24 19:21:20 - DEBUG - ending browser - conftest
+2026-07-24 19:21:21 - DEBUG - Starting login process - LoginPage
+2026-07-24 19:21:21 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 19:21:25 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-24 19:21:25 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 19:21:25 - DEBUG - Filling in password: 1455636475869 - LoginPage
+2026-07-24 19:21:25 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 19:21:25 - DEBUG - Login process completed - LoginPage
+2026-07-24 19:21:26 - DEBUG - ending browser - conftest
+2026-07-24 19:21:26 - DEBUG - trying to loggin with empty credentials - tests.ui.test_login
+2026-07-24 19:21:26 - DEBUG - Starting login process - LoginPage
+2026-07-24 19:21:26 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 19:21:29 - DEBUG - Filling in email:  - LoginPage
+2026-07-24 19:21:29 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 19:21:29 - DEBUG - Filling in password:  - LoginPage
+2026-07-24 19:21:29 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 19:21:29 - DEBUG - Login process completed - LoginPage
+2026-07-24 19:21:29 - DEBUG - ending browser - conftest
+2026-07-24 19:21:29 - DEBUG - addind new note - tests.ui.test_note
+2026-07-24 19:21:33 - DEBUG - adding new note - NotePage
+2026-07-24 19:21:33 - DEBUG - choosing category - NotePage
+2026-07-24 19:21:33 - DEBUG - filling title - NotePage
+2026-07-24 19:21:33 - DEBUG - filling description - NotePage
+2026-07-24 19:21:33 - DEBUG - submitting this note - NotePage
+2026-07-24 19:21:35 - DEBUG - deleting note with title: Title788 - NotePage
+2026-07-24 19:21:35 - DEBUG - creating note with only title - tests.ui.test_note
+2026-07-24 19:21:39 - DEBUG - adding new note - NotePage
+2026-07-24 19:21:39 - DEBUG - choosing category - NotePage
+2026-07-24 19:21:39 - DEBUG - filling title - NotePage
+2026-07-24 19:21:39 - DEBUG - filling description - NotePage
+2026-07-24 19:21:39 - DEBUG - submitting this note - NotePage
+2026-07-24 19:21:39 - DEBUG - testing weather a note appears without refresh - tests.ui.test_note
+2026-07-24 19:21:44 - DEBUG - adding new note - NotePage
+2026-07-24 19:21:44 - DEBUG - choosing category - NotePage
+2026-07-24 19:21:44 - DEBUG - filling title - NotePage
+2026-07-24 19:21:44 - DEBUG - filling description - NotePage
+2026-07-24 19:21:44 - DEBUG - submitting this note - NotePage
+2026-07-24 19:21:44 - DEBUG - new note is successfully made - tests.ui.test_note
+2026-07-24 19:21:46 - CRITICAL - testing creation of with empty title - tests.ui.test_note
+2026-07-24 19:21:49 - DEBUG - adding new note - NotePage
+2026-07-24 19:21:49 - DEBUG - choosing category - NotePage
+2026-07-24 19:21:49 - DEBUG - filling title - NotePage
+2026-07-24 19:21:49 - DEBUG - filling description - NotePage
+2026-07-24 19:21:49 - DEBUG - submitting this note - NotePage
+2026-07-24 19:21:49 - CRITICAL - testing with a blank title - tests.ui.test_note
+2026-07-24 19:21:52 - DEBUG - adding new note - NotePage
+2026-07-24 19:21:52 - DEBUG - choosing category - NotePage
+2026-07-24 19:21:52 - DEBUG - filling title - NotePage
+2026-07-24 19:21:52 - DEBUG - filling description - NotePage
+2026-07-24 19:21:52 - DEBUG - submitting this note - NotePage
+2026-07-24 19:21:56 - DEBUG - adding new note - NotePage
+2026-07-24 19:21:56 - DEBUG - choosing category - NotePage
+2026-07-24 19:21:56 - DEBUG - filling title - NotePage
+2026-07-24 19:21:56 - DEBUG - filling description - NotePage
+2026-07-24 19:21:56 - DEBUG - submitting this note - NotePage
+2026-07-24 19:22:00 - DEBUG - adding new note - NotePage
+2026-07-24 19:22:00 - DEBUG - choosing category - NotePage
+2026-07-24 19:22:00 - DEBUG - filling title - NotePage
+2026-07-24 19:22:00 - DEBUG - filling description - NotePage
+2026-07-24 19:22:00 - DEBUG - submitting this note - NotePage
+2026-07-24 19:22:01 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:22:01 - DEBUG - creating a note to check if it appears in API - test_new_notes
+2026-07-24 19:22:04 - DEBUG - adding new note - NotePage
+2026-07-24 19:22:04 - DEBUG - choosing category - NotePage
+2026-07-24 19:22:04 - DEBUG - filling title - NotePage
+2026-07-24 19:22:04 - DEBUG - filling description - NotePage
+2026-07-24 19:22:05 - DEBUG - submitting this note - NotePage
+2026-07-24 19:22:05 - CRITICAL - url : https://practice.expandtesting.com/notes/api/notes - test_new_notes
+2026-07-24 19:22:05 - DEBUG - Note found in API: [{'id': '6a636e0806f2370295f8e766', 'title': 'title977', 'description': 'this is random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:52:08.978Z', 'updated_at': '2026-07-24T13:52:08.978Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636e0006f2370295f8e75b', 'title': '$@!<!>[#', 'description': 'this is the description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:52:00.558Z', 'updated_at': '2026-07-24T13:52:00.558Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636df406f2370295f8e74e', 'title': 'title399', 'description': 'a random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:51:48.250Z', 'updated_at': '2026-07-24T13:51:48.250Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636de906f2370295f8e744', 'title': 'Title788', 'description': 'this is just a random content', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:51:37.469Z', 'updated_at': '2026-07-24T13:51:37.469Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636dd506f2370295f8e736', 'title': 'Title', 'description': 'avjlqhbrvq;kv', 'category': 'Home', 'completed': False, 'created_at': '2026-07-24T13:51:17.339Z', 'updated_at': '2026-07-24T13:51:17.339Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636c8e06f2370295f8e6ad', 'title': 'title93', 'description': 'this is random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:45:50.238Z', 'updated_at': '2026-07-24T13:45:50.238Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636c8606f2370295f8e6a5', 'title': '$@!<!>[#', 'description': 'this is the description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:45:42.647Z', 'updated_at': '2026-07-24T13:45:42.647Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636c7a06f2370295f8e698', 'title': 'title93', 'description': 'a random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:45:30.658Z', 'updated_at': '2026-07-24T13:45:30.658Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636c7006f2370295f8e68e', 'title': 'Title595', 'description': 'this is just a random content', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:45:20.664Z', 'updated_at': '2026-07-24T13:45:20.664Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636c6a06f2370295f8e688', 'title': 'Title', 'description': 'avjlqhbrvq;kv', 'category': 'Home', 'completed': False, 'created_at': '2026-07-24T13:45:14.945Z', 'updated_at': '2026-07-24T13:45:14.945Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636a8806f2370295f8e5dd', 'title': 'title957', 'description': 'this is random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:37:12.511Z', 'updated_at': '2026-07-24T13:37:12.511Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636a8006f2370295f8e5d5', 'title': '$@!<!>[#', 'description': 'this is the description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:37:04.387Z', 'updated_at': '2026-07-24T13:37:04.387Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636a7606f2370295f8e5c8', 'title': 'title388', 'description': 'a random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:36:54.394Z', 'updated_at': '2026-07-24T13:36:54.394Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636a6e06f2370295f8e5be', 'title': 'Title764', 'description': 'this is just a random content', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:36:46.391Z', 'updated_at': '2026-07-24T13:36:46.391Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a636a6506f2370295f8e5b8', 'title': 'Title', 'description': 'avjlqhbrvq;kv', 'category': 'Home', 'completed': False, 'created_at': '2026-07-24T13:36:37.457Z', 'updated_at': '2026-07-24T13:36:37.457Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a63656c06f2370295f8dd0f', 'title': '$@!<!>[#', 'description': 'this is the description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T13:15:24.384Z', 'updated_at': '2026-07-24T13:15:24.384Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a6359c906f2370295f8cfd9', 'title': 'Title', 'description': 'avjlqhbrvq;kv', 'category': 'Home', 'completed': False, 'created_at': '2026-07-24T12:25:45.507Z', 'updated_at': '2026-07-24T12:25:45.507Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a63593306f2370295f8cf60', 'title': 'Title', 'description': 'avjlqhbrvq;kv', 'category': 'Home', 'completed': False, 'created_at': '2026-07-24T12:23:15.341Z', 'updated_at': '2026-07-24T12:23:15.341Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a61e725fda22d0295a95b01', 'title': 'ldsL:V', 'description': 'dvsL d', 'category': 'Home', 'completed': True, 'created_at': '2026-07-23T10:04:21.410Z', 'updated_at': '2026-07-23T10:04:21.410Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a61e71afda22d0295a95afb', 'title': 'svkld', 'description': 'lvdmkLS', 'category': 'Home', 'completed': True, 'created_at': '2026-07-23T10:04:10.571Z', 'updated_at': '2026-07-23T10:04:10.571Z', 'user_id': '69fa990381124e02985a971b'}] - test_new_notes
+2026-07-24 19:22:05 - DEBUG - deleting note with title: title977 - NotePage
+2026-07-24 19:22:07 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 19:22:10 - INFO - note is created and is visible - test_new_notes
+2026-07-24 19:22:10 - INFO - note is delted - test_new_notes
+2026-07-24 19:22:11 - DEBUG - Starting login process - LoginPage
+2026-07-24 19:22:11 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 19:22:15 - DEBUG - Filling in email: saisaiiii@gmail.com - LoginPage
+2026-07-24 19:22:15 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 19:22:15 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-24 19:22:15 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 19:22:16 - DEBUG - Login process completed - LoginPage
+2026-07-24 19:22:17 - DEBUG - ending browser - conftest
+2026-07-24 19:22:55 - DEBUG - adding new note - NotePage
+2026-07-24 19:22:55 - DEBUG - choosing category - NotePage
+2026-07-24 19:22:55 - DEBUG - filling title - NotePage
+2026-07-24 19:22:55 - DEBUG - filling description - NotePage
+2026-07-24 19:22:55 - DEBUG - submitting this note - NotePage
+2026-07-24 19:22:58 - DEBUG - adding new note - NotePage
+2026-07-24 19:22:58 - DEBUG - choosing category - NotePage
+2026-07-24 19:22:58 - DEBUG - filling title - NotePage
+2026-07-24 19:22:58 - DEBUG - filling description - NotePage
+2026-07-24 19:22:58 - DEBUG - submitting this note - NotePage
+2026-07-24 19:23:58 - DEBUG - adding new note - NotePage
+2026-07-24 19:23:58 - DEBUG - choosing category - NotePage
+2026-07-24 19:23:58 - DEBUG - filling title - NotePage
+2026-07-24 19:23:58 - DEBUG - filling description - NotePage
+2026-07-24 19:23:58 - DEBUG - submitting this note - NotePage
+2026-07-24 19:24:08 - DEBUG - adding new note - NotePage
+2026-07-24 19:24:08 - DEBUG - choosing category - NotePage
+2026-07-24 19:24:08 - DEBUG - filling title - NotePage
+2026-07-24 19:24:08 - DEBUG - filling description - NotePage
+2026-07-24 19:24:08 - DEBUG - submitting this note - NotePage
+2026-07-24 19:27:01 - DEBUG - adding new note - NotePage
+2026-07-24 19:27:01 - DEBUG - choosing category - NotePage
+2026-07-24 19:27:01 - DEBUG - filling title - NotePage
+2026-07-24 19:27:01 - DEBUG - filling description - NotePage
+2026-07-24 19:27:01 - DEBUG - submitting this note - NotePage
+2026-07-24 19:27:03 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 19:27:29 - DEBUG - adding new note - NotePage
+2026-07-24 19:27:29 - DEBUG - choosing category - NotePage
+2026-07-24 19:27:29 - DEBUG - filling title - NotePage
+2026-07-24 19:27:29 - DEBUG - filling description - NotePage
+2026-07-24 19:27:30 - DEBUG - submitting this note - NotePage
+2026-07-24 19:27:30 - DEBUG - deleting note with title: SeRmVXSiFVUKQwi5VwOlVnKvu462LqYiYMngG2F14RpkqQ6dM9J8W0BArkA5Setr5ri9bkg2iUXPdZ3VLIrfD8EHYrYIbgAXFStD0iZ4wcOiUNIW7cAfXClSs3Cg3bxN4bsGk7jiHETWNwXzvmkbb32Ynh9NLB4ihW9VoX0nwxi576JpRG2PQBx8M8Ap1CHDyb4QMvBSLtCpFVjAmwbGR4qBnu5Mh3MqSHP6jUMj6TczyrkIngJkLXJOlkj5tegLKoWm8IEMiALRg7lAc3FRD2F5UFJuRdMVdJZJShCzcBd9nBjzeSZ7bMUABLUt1xIh3qb0u3Y3QFO6EkSEjnnAmZb27uFdkljnPdge3AkA7oznuJoXELc3erI9w42AQ9tzoN1yj65pEufxYN0lqf41jMQRnp5b2nE3ThXj14J5Ke7qUN3ThGF32jrrbN2Uu8IRRiKuMJaLLaOgXeGyn74hGGwYcMFqCPJ5Sn4xnza8DSRDcH8aCJgpCITcIBCovJA1mpIVAWs0pujl3rJXjgYArr1Wl2kUOVJ99EJmSRC4bEPnsgZlwZwglc9AGvLCPaGzUNRRrAHHheJN9cCAkuTxNHkyHX6XZalvRjklDc6i3d7XO1b2SgDAWM5S0JMZuc2UlXvn8IyeFrTt8MtSgp2CwALNY0QWCSDoNLrgklpiH4yvGo2ENPUCUOrzGwQTbVJQ8KnUC0PXfY6SGly0QV8WqUaAUPERNoxTPTdOTQeZ0mMj9Dh2TSkNV2gqavuLuG5zUjsn6qbFkTZBx3uxQnKAtjmOnSkwedwSudEg82CUZopC2P6x1EjoZOVG6hLbBL7R3KFEFSnoS7e2sCPpy40Pq8GJtZCwzstMt0r2yp4NnHubl0iEn6ri2ElpOcQXqRxdSYV5Eq6ElLVBPuLZlW18gHO5jYQBdm2StCa8HRR3Hr8PGf6FYy255zBAGY9z3MHaO25bJ57TEO8KEPMGsTYOcBhRJam5AW9VlTphLcM2 - NotePage
+2026-07-24 19:28:16 - DEBUG - adding new note - NotePage
+2026-07-24 19:28:16 - DEBUG - choosing category - NotePage
+2026-07-24 19:28:16 - DEBUG - filling title - NotePage
+2026-07-24 19:28:16 - DEBUG - filling description - NotePage
+2026-07-24 19:28:16 - DEBUG - submitting this note - NotePage
+2026-07-24 19:28:16 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 19:30:04 - DEBUG - adding new note - NotePage
+2026-07-24 19:30:04 - DEBUG - choosing category - NotePage
+2026-07-24 19:30:04 - DEBUG - filling title - NotePage
+2026-07-24 19:30:04 - DEBUG - filling description - NotePage
+2026-07-24 19:30:05 - DEBUG - submitting this note - NotePage
+2026-07-24 19:32:33 - DEBUG - adding new note - NotePage
+2026-07-24 19:32:34 - DEBUG - choosing category - NotePage
+2026-07-24 19:32:34 - DEBUG - filling title - NotePage
+2026-07-24 19:32:34 - DEBUG - filling description - NotePage
+2026-07-24 19:32:34 - DEBUG - submitting this note - NotePage
+2026-07-24 19:32:34 - DEBUG - deleting note with title: eNgeAQ0Kn4vJMM0VaXIJteCytOXNGpXiaxZlEj1ncAoYRhy1qaW6wTscEKjvdzP1jZehEZ38lEq8tKn2xwNzi68xavnifREJLgkYLZlvjgk76cBHaU7c4BtCzX8aL8dSnc3B4gps8ZWU2V4LRkbRL59JuXpz1FeT6DnaS1WK5bbKj4ND1SCzqTn85xWSQl9iZDJDHtVHSmJ73CqghW6HTD4U0kPVWFTVR0OV9L0jgyOtPEJJSvWE8eA6BLmA1rzMpnF4auhcc2CerDDJY7r3ZI9pCJziMyL46aTkz3L2F81ZFRVCJekncA9Be7Dhrj8fo7MbNpf35sa3ZLgNZrriIKLAkhFjmHI0l2mrgv7WmM7ZL0UV8EEMIveSYjB2aHCOsgs6zXGJZnmBFGU4NswXOyZ1PWOgEJ9vrjmyq8kXDhb7Syh8KOxQpOx5bTGnGfkwrd2k2nFd4OONa6lPoPke5J3EnXhjgqnpTVtraUa0o2MBUwEHDvT9GV1ukR8ZfOK5vdTQLqtXehBsvB62otwCVLPnsxjIIgxOM1zRqzGa2jteAAg8uyzwwOYfkqDWICD76R8KWc4ImCkdN67AiToDTRbSYofsKGnjDap0sJhkVt8fwYYsEcW6JVdx4fVRnEjvIvFTWKuCQr9cOmm5WIqysZqMth2e5TY858gqqOq533tUo5paHaEYFCVynKW0DSIWFQBOqiRe0OrOrqEqwLGSxl7GZyDat5SfgiedRWxa9AabBEc1hUAgovXBNF1aU6IZZTKFSFrGqc0YknFoNK24ygs0wO55BPm9xZuOwftSYam4oGv1vwcBe7lthKudSdlYXlEwtTKZI8XyLQUdg2XTb2LRrnI7yWqUlHvYFtrws3oVOArqrrHX8exzU7eiQgGx3EjqDWKZPw2AA2V4tv0qKyzdWZBqylRNRPosITJkwK1B8ZvlbZd8ieKd719naMUTNAgQoWc4qezCLM8RgjJJRqSnheHlsk01yT9rgelT - NotePage
+2026-07-24 19:34:08 - DEBUG - adding new note - NotePage
+2026-07-24 19:34:08 - DEBUG - choosing category - NotePage
+2026-07-24 19:34:08 - DEBUG - filling title - NotePage
+2026-07-24 19:34:08 - DEBUG - filling description - NotePage
+2026-07-24 19:34:09 - DEBUG - submitting this note - NotePage
+2026-07-24 19:34:09 - DEBUG - deleting note with title: SupGOxXSokvDurjKTtN0VdIAVkAQS9yA9duUAlFsxtjHbHHDeKRGrlfM2zQJpJLkDT7WPsEUxshUETMxiblfTy5dPa7vW9Bt2aLBC6bW68VjyOpWBZvfLM1vPqutGrVpvHMqNygxAhplX7dSAHekweX0XIJJrF9j9Ad68xHntwQ0ZnFLBM8xiPZgKaCUXMkzt3LqfxrC7HC1f4GLPuIJ7Fq0c8JVmWrGEumOaxiseQPxBuRxb0SlOIDs99w1ujAfaUAftsgbJukuiqXXirwQB2edyfzKu95t4mwWBZntytqm5c7sUPDMnb6sgEBp2rgXQ2iVSfJ8zl7L0iZVYnO2BzCDa3X1EW2zijcz7Y7V9uqm8xZGb1fmJndwI1Gmj812Jv2gcvPk4txi6VvWGgJrjSH1D4jbqsN3jt1Wk7Np9xSGIAzV8dCsqiD9JFC9VPzo7aD1LxndeA9gdeFAdWevw2MV3Su7EKp2pTh05bCtPfrqGZ0fey8H2uBPqNc4BWHUkPHIlJMilJ77cGIFKajZjyDOZO7InQFV2eRJgQ8uIVaddZ8WDwpAoEv9bkXVWYTqGalIP9oFym5UiArX3Wi42w9RWXuhh6Uukp91FpETy2YkvEhLOjvLnFIb02luCPgrcQ3gx1XZFqcYBPJOi4zcrnFMUMGXLKcPsX4z29DwVJ2EXOuXhm0auW9XXsWJOgSQutaklcrlr74xm9jJodqnT8ZjW5pJPjpzv7PvwtRFqyU4yofVGLwps6wNdSW4NQqyEry3wInqynkNybAeuz4vMdn7fXpRsdsODssp5jtmv7OdRapTt123MFkhxVIrtSPdg2jJzOUybgb5vWhQJiFX38WUthi2KJGv753N7Ifr3s8zkzmrfeOqooYkQ1tBRCz9lyNKfkLWD4SbmHNvuFrdaroBvaFsJ0p5rqUbHLfHcTlq8zr2P7Ci4iONiH5hyFrrDP9BLlZQZMiZvY0wlgrlB8dFXpOoUsibtzmwl6cT - NotePage
+2026-07-24 19:36:19 - DEBUG - adding new note - NotePage
+2026-07-24 19:36:19 - DEBUG - choosing category - NotePage
+2026-07-24 19:36:19 - DEBUG - filling title - NotePage
+2026-07-24 19:36:20 - DEBUG - filling description - NotePage
+2026-07-24 19:36:20 - DEBUG - submitting this note - NotePage
+2026-07-24 19:36:20 - DEBUG - deleting note with title: y5du1YDfYJ8ZhHF8x648S9WdMZbiIrTv5Ytofo4XIBCG8FLoMpomSNDUONqCZRx7ZBCxMF0qePlIl9PaY00A0PlHQDhi9PslGmSEy3oN4hXZaoB4YX0t4UHPB0xLZnan72PEdku9Lerz6RzcaTYg597x4lT1UOKYP2yNr2xSbOJT6ucqPdsoLmWDKTDZ23l1sKx28kJdYJAG6uYjwxq965wXPBimAqrn0DUsyV6IXq3OIIL4466yDw4HWEfRY1mNMOO2XVM3Ki91vZMQsFXfeOYZwYYubUnyLfzBsecvPAIdxckBdJDOKGhC95ZcJKrEVY4wMGLS9eCacMI8TbzdXMnUZDt2EzvtALaRoPP7n0XvAY1cQbNND6DsagDNFNpFzJonvyFstlfqamCZS3XXHe8C0rNJbDpEwy20HH9U68V2s7OyfOV0qt1CZhbwIkyw3rSuMRffu6toLxSpm48jZX9H80iMyi9wR1mtyZK3WlrC3U8sEaOfGtvnSOQwqIAeQC74z4D1Pc14PGvZQa1YO4t6NRcd7QRKLlKwxcJlZLhuoTulj4gEkDYfxmwFlArfFYLXaFr7JoQ1LrYCqwVjhtYQTd10iH2iQuIm2CtGtfMbfO5ZTZYrCLqWHqcEfBg08IzFnnegRJmwtG6XmASj0NJvvjuX4hGFw6rrLe6IsiV8PPrpwzfrQR0T2SFGuPdS9nhNkSYJ5xvmfYPyDrkz9NyMMzdSaYdX3n70RwPozVSaktmJYOkc2BNAMtWR85q8ADrYmA1vmncquGyPl9cMsDeHFMXXMcNTmJvyUwm8ntHZv1g7OMq9QyCtE5QxgLRbSZoUofdZCguKybVY6y4QqjHOhk2gDfISwgJGjbHhIURjeDwpIoEra4xwJmjJPJSEBYCxQ3HNMPwwAsSqA38nYWRcBr0aErMfKZ7RnkuIVeXPwUEPGG7QvHGgGwAfpeNYoVOdmD9dVDPF54pfIO4FmlAoYqMyQ1arJfHGJPGA - NotePage
+2026-07-24 19:43:15 - DEBUG - adding new note - NotePage
+2026-07-24 19:43:15 - DEBUG - choosing category - NotePage
+2026-07-24 19:43:15 - DEBUG - filling title - NotePage
+2026-07-24 19:43:15 - DEBUG - filling description - NotePage
+2026-07-24 19:43:15 - DEBUG - submitting this note - NotePage
+2026-07-24 19:45:09 - DEBUG - adding new note - NotePage
+2026-07-24 19:45:09 - DEBUG - choosing category - NotePage
+2026-07-24 19:45:09 - DEBUG - filling title - NotePage
+2026-07-24 19:45:09 - DEBUG - filling description - NotePage
+2026-07-24 19:45:09 - DEBUG - submitting this note - NotePage
+2026-07-24 19:45:11 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 19:46:07 - DEBUG - adding new note - NotePage
+2026-07-24 19:46:07 - DEBUG - choosing category - NotePage
+2026-07-24 19:46:07 - DEBUG - filling title - NotePage
+2026-07-24 19:46:08 - DEBUG - filling description - NotePage
+2026-07-24 19:46:08 - DEBUG - submitting this note - NotePage
+2026-07-24 19:47:17 - DEBUG - adding new note - NotePage
+2026-07-24 19:47:17 - DEBUG - choosing category - NotePage
+2026-07-24 19:47:18 - DEBUG - filling title - NotePage
+2026-07-24 19:47:18 - DEBUG - filling description - NotePage
+2026-07-24 19:47:18 - DEBUG - submitting this note - NotePage
+2026-07-24 19:47:20 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 19:47:32 - DEBUG - adding new note - NotePage
+2026-07-24 19:47:32 - DEBUG - choosing category - NotePage
+2026-07-24 19:47:33 - DEBUG - filling title - NotePage
+2026-07-24 19:47:33 - DEBUG - filling description - NotePage
+2026-07-24 19:47:33 - DEBUG - submitting this note - NotePage
+2026-07-24 19:47:33 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 19:48:13 - DEBUG - adding new note - NotePage
+2026-07-24 19:48:14 - DEBUG - choosing category - NotePage
+2026-07-24 19:48:14 - DEBUG - filling title - NotePage
+2026-07-24 19:48:14 - DEBUG - filling description - NotePage
+2026-07-24 19:48:14 - DEBUG - submitting this note - NotePage
+2026-07-24 19:48:16 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 19:48:57 - DEBUG - adding new note - NotePage
+2026-07-24 19:48:57 - DEBUG - choosing category - NotePage
+2026-07-24 19:48:57 - DEBUG - filling title - NotePage
+2026-07-24 19:48:57 - DEBUG - filling description - NotePage
+2026-07-24 19:48:58 - DEBUG - submitting this note - NotePage
+2026-07-24 19:49:00 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 19:51:03 - DEBUG - adding new note - NotePage
+2026-07-24 19:51:03 - DEBUG - choosing category - NotePage
+2026-07-24 19:51:04 - DEBUG - filling title - NotePage
+2026-07-24 19:51:04 - DEBUG - filling description - NotePage
+2026-07-24 19:51:04 - DEBUG - submitting this note - NotePage
+2026-07-24 19:51:06 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 19:52:26 - DEBUG - addind new note - tests.ui.test_note
+2026-07-24 19:52:31 - DEBUG - adding new note - NotePage
+2026-07-24 19:52:31 - DEBUG - choosing category - NotePage
+2026-07-24 19:52:31 - DEBUG - filling title - NotePage
+2026-07-24 19:52:31 - DEBUG - filling description - NotePage
+2026-07-24 19:52:31 - DEBUG - submitting this note - NotePage
+2026-07-24 19:52:43 - DEBUG - deleting note with title: Title97 - NotePage
+2026-07-24 19:53:52 - DEBUG - addind new note - tests.ui.test_note
+2026-07-24 19:53:57 - DEBUG - adding new note - NotePage
+2026-07-24 19:53:58 - DEBUG - choosing category - NotePage
+2026-07-24 19:53:58 - DEBUG - filling title - NotePage
+2026-07-24 19:53:58 - DEBUG - filling description - NotePage
+2026-07-24 19:53:58 - DEBUG - submitting this note - NotePage
+2026-07-24 19:54:00 - DEBUG - deleting note with title: Title270 - NotePage
+2026-07-24 19:55:27 - DEBUG - adding new note - NotePage
+2026-07-24 19:55:27 - DEBUG - choosing category - NotePage
+2026-07-24 19:55:28 - DEBUG - filling title - NotePage
+2026-07-24 19:55:28 - DEBUG - filling description - NotePage
+2026-07-24 19:55:28 - DEBUG - submitting this note - NotePage
+2026-07-24 19:55:30 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 19:56:27 - DEBUG - adding new note - NotePage
+2026-07-24 19:56:27 - DEBUG - choosing category - NotePage
+2026-07-24 19:56:28 - DEBUG - filling title - NotePage
+2026-07-24 19:56:28 - DEBUG - filling description - NotePage
+2026-07-24 19:56:28 - DEBUG - submitting this note - NotePage
+2026-07-24 19:56:28 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 20:03:12 - DEBUG - adding new note - NotePage
+2026-07-24 20:03:12 - DEBUG - choosing category - NotePage
+2026-07-24 20:03:12 - DEBUG - filling title - NotePage
+2026-07-24 20:03:12 - DEBUG - filling description - NotePage
+2026-07-24 20:03:12 - DEBUG - submitting this note - NotePage
+2026-07-24 20:03:12 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 20:03:40 - DEBUG - adding new note - NotePage
+2026-07-24 20:03:40 - DEBUG - choosing category - NotePage
+2026-07-24 20:03:40 - DEBUG - filling title - NotePage
+2026-07-24 20:03:40 - DEBUG - filling description - NotePage
+2026-07-24 20:03:40 - DEBUG - submitting this note - NotePage
+2026-07-24 20:03:42 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 20:35:41 - DEBUG - adding new note - NotePage
+2026-07-24 20:35:41 - DEBUG - choosing category - NotePage
+2026-07-24 20:35:41 - DEBUG - filling title - NotePage
+2026-07-24 20:35:41 - DEBUG - filling description - NotePage
+2026-07-24 20:35:41 - DEBUG - submitting this note - NotePage
+2026-07-24 20:35:42 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 20:36:44 - DEBUG - adding new note - NotePage
+2026-07-24 20:36:44 - DEBUG - choosing category - NotePage
+2026-07-24 20:36:44 - DEBUG - filling title - NotePage
+2026-07-24 20:36:44 - DEBUG - filling description - NotePage
+2026-07-24 20:36:45 - DEBUG - submitting this note - NotePage
+2026-07-24 20:36:46 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 20:37:39 - DEBUG - adding new note - NotePage
+2026-07-24 20:37:39 - DEBUG - choosing category - NotePage
+2026-07-24 20:37:39 - DEBUG - filling title - NotePage
+2026-07-24 20:37:39 - DEBUG - filling description - NotePage
+2026-07-24 20:37:39 - DEBUG - submitting this note - NotePage
+2026-07-24 20:37:40 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 20:38:10 - DEBUG - adding new note - NotePage
+2026-07-24 20:38:10 - DEBUG - choosing category - NotePage
+2026-07-24 20:38:10 - DEBUG - filling title - NotePage
+2026-07-24 20:38:10 - DEBUG - filling description - NotePage
+2026-07-24 20:38:10 - DEBUG - submitting this note - NotePage
+2026-07-24 20:38:12 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 20:38:36 - DEBUG - addind new note - tests.ui.test_note
+2026-07-24 20:38:41 - DEBUG - adding new note - NotePage
+2026-07-24 20:38:41 - DEBUG - choosing category - NotePage
+2026-07-24 20:38:41 - DEBUG - filling title - NotePage
+2026-07-24 20:38:41 - DEBUG - filling description - NotePage
+2026-07-24 20:38:42 - DEBUG - submitting this note - NotePage
+2026-07-24 20:38:43 - DEBUG - deleting note with title: Title346 - NotePage
+2026-07-24 20:39:25 - DEBUG - adding new note - NotePage
+2026-07-24 20:39:25 - DEBUG - choosing category - NotePage
+2026-07-24 20:39:25 - DEBUG - filling title - NotePage
+2026-07-24 20:39:26 - DEBUG - filling description - NotePage
+2026-07-24 20:39:26 - DEBUG - submitting this note - NotePage
+2026-07-24 20:39:28 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 21:16:27 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 21:16:27 - DEBUG - testing GET/notes responce  - tests.api.test_note_api
+2026-07-24 21:16:28 - INFO - notes are acssesible - tests.api.test_note_api
+2026-07-24 21:16:29 - DEBUG - testing GET/notes for new user - tests.api.test_note_api
+2026-07-24 21:16:29 - DEBUG - registering new user with email: sapellysaivivek7790@gmail.com and password: 142536475869 - tests.api.test_note_api
+2026-07-24 21:16:30 - INFO - 200 - tests.api.test_note_api
+2026-07-24 21:16:30 - INFO - {"success":true,"status":200,"message":"No notes found","data":[]} - tests.api.test_note_api
+2026-07-24 21:16:30 - DEBUG - notes for new user:  - tests.api.test_note_api
+2026-07-24 21:16:30 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 21:16:30 - CRITICAL - testing Get/notes/id is valid - tests.api.test_note_api
+2026-07-24 21:16:30 - DEBUG - creating a note for this notes api - tests.api.test_note_api
+2026-07-24 21:16:31 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 21:16:31 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-24 21:16:31 - INFO - creating a note - tests.api.test_note_api
+2026-07-24 21:16:32 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 21:16:33 - DEBUG - testing GET/notes responce time - tests.api.test_note_api
+2026-07-24 21:16:33 - DEBUG - making request 1 to /notes endpoint - tests.api.test_note_api
+2026-07-24 21:16:33 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 21:16:33 - DEBUG - making request 2 to /notes endpoint - tests.api.test_note_api
+2026-07-24 21:16:33 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 21:16:33 - DEBUG - making request 3 to /notes endpoint - tests.api.test_note_api
+2026-07-24 21:16:34 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 21:16:34 - DEBUG - making request 4 to /notes endpoint - tests.api.test_note_api
+2026-07-24 21:16:34 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 21:16:34 - DEBUG - making request 5 to /notes endpoint - tests.api.test_note_api
+2026-07-24 21:16:34 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-24 21:16:34 - INFO - average responce time for /notes endpoint is 377.5870400015265 ms - tests.api.test_note_api
+2026-07-24 21:16:34 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 21:16:34 - CRITICAL - testing Post/notes response time - tests.api.test_note_api
+2026-07-24 21:16:39 - INFO - average responce time for /notes endpoint is 0.39869375999551265 ms - tests.api.test_note_api
+2026-07-24 21:16:39 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 21:16:39 - CRITICAL - testing delete response time  - tests.api.test_note_api
+2026-07-24 21:16:42 - INFO - response time for delete request 0.3872415999998339 - tests.api.test_note_api
+2026-07-24 21:16:43 - CRITICAL -  testin accsessing notes without authentication - tests.api.test_note_api
+2026-07-24 21:16:43 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 21:16:44 - INFO - successfully logged in - tests.ui.test_login
+2026-07-24 21:16:44 - DEBUG - Starting the authentication test - tests.ui.test_login
+2026-07-24 21:16:44 - DEBUG - Starting login process - LoginPage
+2026-07-24 21:16:44 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 21:16:51 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-24 21:16:51 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 21:16:51 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-24 21:16:51 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 21:16:51 - DEBUG - Login process completed - LoginPage
+2026-07-24 21:16:51 - DEBUG - successfully login - tests.ui.test_login
+2026-07-24 21:16:52 - DEBUG - ending page - conftest
+2026-07-24 21:16:53 - DEBUG - Starting login process - LoginPage
+2026-07-24 21:16:53 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 21:16:56 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-24 21:16:56 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 21:16:56 - DEBUG - Filling in password: 1455636475869 - LoginPage
+2026-07-24 21:16:56 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 21:16:56 - DEBUG - Login process completed - LoginPage
+2026-07-24 21:16:57 - DEBUG - ending page - conftest
+2026-07-24 21:16:57 - DEBUG - trying to loggin with empty credentials - tests.ui.test_login
+2026-07-24 21:16:57 - DEBUG - Starting login process - LoginPage
+2026-07-24 21:16:57 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 21:16:59 - DEBUG - Filling in email:  - LoginPage
+2026-07-24 21:16:59 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 21:16:59 - DEBUG - Filling in password:  - LoginPage
+2026-07-24 21:16:59 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 21:16:59 - DEBUG - Login process completed - LoginPage
+2026-07-24 21:16:59 - DEBUG - ending page - conftest
+2026-07-24 21:17:00 - DEBUG - addind new note - tests.ui.test_note
+2026-07-24 21:17:03 - DEBUG - adding new note - NotePage
+2026-07-24 21:17:03 - DEBUG - choosing category - NotePage
+2026-07-24 21:17:03 - DEBUG - filling title - NotePage
+2026-07-24 21:17:03 - DEBUG - filling description - NotePage
+2026-07-24 21:17:03 - DEBUG - submitting this note - NotePage
+2026-07-24 21:17:05 - DEBUG - deleting note with title: Title12 - NotePage
+2026-07-24 21:17:05 - DEBUG - creating note with only title - tests.ui.test_note
+2026-07-24 21:17:08 - DEBUG - adding new note - NotePage
+2026-07-24 21:17:08 - DEBUG - choosing category - NotePage
+2026-07-24 21:17:08 - DEBUG - filling title - NotePage
+2026-07-24 21:17:08 - DEBUG - filling description - NotePage
+2026-07-24 21:17:08 - DEBUG - submitting this note - NotePage
+2026-07-24 21:17:09 - DEBUG - testing weather a note appears without refresh - tests.ui.test_note
+2026-07-24 21:17:12 - DEBUG - adding new note - NotePage
+2026-07-24 21:17:12 - DEBUG - choosing category - NotePage
+2026-07-24 21:17:12 - DEBUG - filling title - NotePage
+2026-07-24 21:17:13 - DEBUG - filling description - NotePage
+2026-07-24 21:17:13 - DEBUG - submitting this note - NotePage
+2026-07-24 21:17:13 - DEBUG - new note is successfully made - tests.ui.test_note
+2026-07-24 21:17:15 - CRITICAL - testing creation of with empty title - tests.ui.test_note
+2026-07-24 21:17:19 - DEBUG - adding new note - NotePage
+2026-07-24 21:17:19 - DEBUG - choosing category - NotePage
+2026-07-24 21:17:19 - DEBUG - filling title - NotePage
+2026-07-24 21:17:19 - DEBUG - filling description - NotePage
+2026-07-24 21:17:19 - DEBUG - submitting this note - NotePage
+2026-07-24 21:17:20 - CRITICAL - testing with a blank title - tests.ui.test_note
+2026-07-24 21:17:24 - DEBUG - adding new note - NotePage
+2026-07-24 21:17:24 - DEBUG - choosing category - NotePage
+2026-07-24 21:17:24 - DEBUG - filling title - NotePage
+2026-07-24 21:17:24 - DEBUG - filling description - NotePage
+2026-07-24 21:17:24 - DEBUG - submitting this note - NotePage
+2026-07-24 21:17:27 - DEBUG - adding new note - NotePage
+2026-07-24 21:17:28 - DEBUG - choosing category - NotePage
+2026-07-24 21:17:28 - DEBUG - filling title - NotePage
+2026-07-24 21:17:28 - DEBUG - filling description - NotePage
+2026-07-24 21:17:28 - DEBUG - submitting this note - NotePage
+2026-07-24 21:17:30 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-24 21:17:33 - DEBUG - adding new note - NotePage
+2026-07-24 21:17:33 - DEBUG - choosing category - NotePage
+2026-07-24 21:17:33 - DEBUG - filling title - NotePage
+2026-07-24 21:17:33 - DEBUG - filling description - NotePage
+2026-07-24 21:17:33 - DEBUG - submitting this note - NotePage
+2026-07-24 21:17:34 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 21:17:34 - DEBUG - creating a note to check if it appears in API - test_new_notes
+2026-07-24 21:17:36 - DEBUG - adding new note - NotePage
+2026-07-24 21:17:36 - DEBUG - choosing category - NotePage
+2026-07-24 21:17:36 - DEBUG - filling title - NotePage
+2026-07-24 21:17:36 - DEBUG - filling description - NotePage
+2026-07-24 21:17:36 - DEBUG - submitting this note - NotePage
+2026-07-24 21:17:37 - CRITICAL - url : https://practice.expandtesting.com/notes/api/notes - test_new_notes
+2026-07-24 21:17:37 - DEBUG - Note found in API: [{'id': '6a63891c06f2370295f8eb67', 'title': 'title607', 'description': 'this is random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T15:47:40.498Z', 'updated_at': '2026-07-24T15:47:40.498Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a63890406f2370295f8eb48', 'title': 'title69', 'description': 'a random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-24T15:47:16.916Z', 'updated_at': '2026-07-24T15:47:16.916Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a6388e706f2370295f8eb30', 'title': 'Title', 'description': 'avjlqhbrvq;kv', 'category': 'Home', 'completed': False, 'created_at': '2026-07-24T15:46:47.258Z', 'updated_at': '2026-07-24T15:46:47.258Z', 'user_id': '69fa990381124e02985a971b'}] - test_new_notes
+2026-07-24 21:17:37 - DEBUG - deleting note with title: title607 - NotePage
+2026-07-24 21:17:38 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-24 21:17:42 - DEBUG - Starting login process - LoginPage
+2026-07-24 21:17:42 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-24 21:17:45 - DEBUG - Filling in email: saisaiiii@gmail.com - LoginPage
+2026-07-24 21:17:45 - CRITICAL - filled in successfully - LoginPage
+2026-07-24 21:17:45 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-24 21:17:45 - DEBUG - Clicking the login button - LoginPage
+2026-07-24 21:17:46 - DEBUG - Login process completed - LoginPage
+2026-07-24 21:17:46 - DEBUG - ending page - conftest
+2026-07-25 10:19:59 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-25 10:20:39 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-25 10:20:49 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-25 10:21:00 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:33:45 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:33:58 - INFO - note is created and is visible - test_new_notes
+2026-07-26 19:33:58 - INFO - note is delted - test_new_notes
+2026-07-26 19:34:36 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:34:37 - DEBUG - testing GET/notes responce  - tests.api.test_note_api
+2026-07-26 19:34:38 - INFO - notes are acssesible - tests.api.test_note_api
+2026-07-26 19:34:38 - DEBUG - testing GET/notes for new user - tests.api.test_note_api
+2026-07-26 19:34:38 - DEBUG - registering new user with email: sapellysaivivek40410@gmail.com and password: 142536475869 - tests.api.test_note_api
+2026-07-26 19:34:39 - INFO - 200 - tests.api.test_note_api
+2026-07-26 19:34:39 - INFO - {"success":true,"status":200,"message":"No notes found","data":[]} - tests.api.test_note_api
+2026-07-26 19:34:39 - DEBUG - notes for new user:  - tests.api.test_note_api
+2026-07-26 19:34:39 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:34:39 - CRITICAL - testing Get/notes/id is valid - tests.api.test_note_api
+2026-07-26 19:34:39 - DEBUG - creating a note for this notes api - tests.api.test_note_api
+2026-07-26 19:34:41 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:34:41 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-26 19:34:41 - INFO - creating a note - tests.api.test_note_api
+2026-07-26 19:34:42 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:34:42 - DEBUG - testing GET/notes responce time - tests.api.test_note_api
+2026-07-26 19:34:42 - DEBUG - making request 1 to /notes endpoint - tests.api.test_note_api
+2026-07-26 19:35:17 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:35:18 - DEBUG - testing GET/notes responce  - tests.api.test_note_api
+2026-07-26 19:35:19 - INFO - notes are acssesible - tests.api.test_note_api
+2026-07-26 19:35:19 - DEBUG - testing GET/notes for new user - tests.api.test_note_api
+2026-07-26 19:35:20 - DEBUG - registering new user with email: sapellysaivivek12944@gmail.com and password: 142536475869 - tests.api.test_note_api
+2026-07-26 19:35:21 - INFO - 200 - tests.api.test_note_api
+2026-07-26 19:35:21 - INFO - {"success":true,"status":200,"message":"No notes found","data":[]} - tests.api.test_note_api
+2026-07-26 19:35:21 - DEBUG - notes for new user:  - tests.api.test_note_api
+2026-07-26 19:35:21 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:35:21 - CRITICAL - testing Get/notes/id is valid - tests.api.test_note_api
+2026-07-26 19:35:21 - DEBUG - creating a note for this notes api - tests.api.test_note_api
+2026-07-26 19:35:22 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:35:22 - CRITICAL - testing that deleting a deleted note using id returns status code 404 - tests.api.test_note_api
+2026-07-26 19:35:22 - INFO - creating a note - tests.api.test_note_api
+2026-07-26 19:35:23 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:35:23 - DEBUG - testing GET/notes responce time - tests.api.test_note_api
+2026-07-26 19:35:23 - DEBUG - making request 1 to /notes endpoint - tests.api.test_note_api
+2026-07-26 19:35:24 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-26 19:35:24 - DEBUG - making request 2 to /notes endpoint - tests.api.test_note_api
+2026-07-26 19:35:24 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-26 19:35:24 - DEBUG - making request 3 to /notes endpoint - tests.api.test_note_api
+2026-07-26 19:35:25 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-26 19:35:25 - DEBUG - making request 4 to /notes endpoint - tests.api.test_note_api
+2026-07-26 19:35:25 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-26 19:35:25 - DEBUG - making request 5 to /notes endpoint - tests.api.test_note_api
+2026-07-26 19:35:25 - CRITICAL - for response time testing:https://practice.expandtesting.com/notes/api/notes - tests.api.test_note_api
+2026-07-26 19:35:25 - INFO - average responce time for /notes endpoint is 405.7168399915099 ms - tests.api.test_note_api
+2026-07-26 19:35:25 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:35:25 - CRITICAL - testing Post/notes response time - tests.api.test_note_api
+2026-07-26 19:35:30 - INFO - average responce time for /notes endpoint is 0.4240355800022371 ms - tests.api.test_note_api
+2026-07-26 19:35:30 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:35:30 - CRITICAL - testing delete response time  - tests.api.test_note_api
+2026-07-26 19:35:35 - INFO - response time for delete request 0.40620639998232944 - tests.api.test_note_api
+2026-07-26 19:35:35 - CRITICAL -  testin accsessing notes without authentication - tests.api.test_note_api
+2026-07-26 19:35:36 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:35:39 - INFO - successfully logged in - tests.ui.test_login
+2026-07-26 19:35:39 - DEBUG - Starting the authentication test - tests.ui.test_login
+2026-07-26 19:35:39 - DEBUG - Starting login process - LoginPage
+2026-07-26 19:35:39 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 19:35:44 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-26 19:35:44 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 19:35:44 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-26 19:35:44 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 19:35:45 - DEBUG - Login process completed - LoginPage
+2026-07-26 19:35:45 - DEBUG - successfully login - tests.ui.test_login
+2026-07-26 19:35:47 - DEBUG - ending page - conftest
+2026-07-26 19:35:47 - DEBUG - Starting login process - LoginPage
+2026-07-26 19:35:47 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 19:35:51 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-26 19:35:51 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 19:35:51 - DEBUG - Filling in password: 1455636475869 - LoginPage
+2026-07-26 19:35:51 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 19:35:51 - DEBUG - Login process completed - LoginPage
+2026-07-26 19:35:52 - DEBUG - ending page - conftest
+2026-07-26 19:35:52 - DEBUG - trying to loggin with empty credentials - tests.ui.test_login
+2026-07-26 19:35:52 - DEBUG - Starting login process - LoginPage
+2026-07-26 19:35:52 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 19:35:56 - DEBUG - Filling in email:  - LoginPage
+2026-07-26 19:35:56 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 19:35:56 - DEBUG - Filling in password:  - LoginPage
+2026-07-26 19:35:56 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 19:35:57 - DEBUG - Login process completed - LoginPage
+2026-07-26 19:35:57 - DEBUG - ending page - conftest
+2026-07-26 19:35:58 - DEBUG - addind new note - tests.ui.test_note
+2026-07-26 19:36:02 - DEBUG - adding new note - NotePage
+2026-07-26 19:36:03 - DEBUG - choosing category - NotePage
+2026-07-26 19:36:03 - DEBUG - filling title - NotePage
+2026-07-26 19:36:03 - DEBUG - filling description - NotePage
+2026-07-26 19:36:03 - DEBUG - submitting this note - NotePage
+2026-07-26 19:36:06 - DEBUG - deleting note with title: Title224 - NotePage
+2026-07-26 19:36:07 - DEBUG - creating note with only title - tests.ui.test_note
+2026-07-26 19:36:11 - DEBUG - adding new note - NotePage
+2026-07-26 19:36:11 - DEBUG - choosing category - NotePage
+2026-07-26 19:36:11 - DEBUG - filling title - NotePage
+2026-07-26 19:36:11 - DEBUG - filling description - NotePage
+2026-07-26 19:36:12 - DEBUG - submitting this note - NotePage
+2026-07-26 19:36:13 - DEBUG - testing weather a note appears without refresh - tests.ui.test_note
+2026-07-26 19:36:16 - DEBUG - adding new note - NotePage
+2026-07-26 19:36:16 - DEBUG - choosing category - NotePage
+2026-07-26 19:36:16 - DEBUG - filling title - NotePage
+2026-07-26 19:36:17 - DEBUG - filling description - NotePage
+2026-07-26 19:36:17 - DEBUG - submitting this note - NotePage
+2026-07-26 19:36:17 - DEBUG - new note is successfully made - tests.ui.test_note
+2026-07-26 19:36:19 - CRITICAL - testing creation of with empty title - tests.ui.test_note
+2026-07-26 19:36:23 - DEBUG - adding new note - NotePage
+2026-07-26 19:36:23 - DEBUG - choosing category - NotePage
+2026-07-26 19:36:23 - DEBUG - filling title - NotePage
+2026-07-26 19:36:23 - DEBUG - filling description - NotePage
+2026-07-26 19:36:23 - DEBUG - submitting this note - NotePage
+2026-07-26 19:36:24 - CRITICAL - testing with a blank title - tests.ui.test_note
+2026-07-26 19:36:27 - DEBUG - adding new note - NotePage
+2026-07-26 19:36:27 - DEBUG - choosing category - NotePage
+2026-07-26 19:36:27 - DEBUG - filling title - NotePage
+2026-07-26 19:36:27 - DEBUG - filling description - NotePage
+2026-07-26 19:36:28 - DEBUG - submitting this note - NotePage
+2026-07-26 19:36:32 - DEBUG - adding new note - NotePage
+2026-07-26 19:36:32 - DEBUG - choosing category - NotePage
+2026-07-26 19:36:32 - DEBUG - filling title - NotePage
+2026-07-26 19:36:32 - DEBUG - filling description - NotePage
+2026-07-26 19:36:32 - DEBUG - submitting this note - NotePage
+2026-07-26 19:36:34 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-26 19:36:39 - DEBUG - adding new note - NotePage
+2026-07-26 19:36:39 - DEBUG - choosing category - NotePage
+2026-07-26 19:36:39 - DEBUG - filling title - NotePage
+2026-07-26 19:36:39 - DEBUG - filling description - NotePage
+2026-07-26 19:36:39 - DEBUG - submitting this note - NotePage
+2026-07-26 19:36:39 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:36:39 - DEBUG - creating a note to check if it appears in API - test_new_notes
+2026-07-26 19:36:43 - DEBUG - adding new note - NotePage
+2026-07-26 19:36:43 - DEBUG - choosing category - NotePage
+2026-07-26 19:36:43 - DEBUG - filling title - NotePage
+2026-07-26 19:36:43 - DEBUG - filling description - NotePage
+2026-07-26 19:36:43 - DEBUG - submitting this note - NotePage
+2026-07-26 19:36:43 - CRITICAL - url : https://practice.expandtesting.com/notes/api/notes - test_new_notes
+2026-07-26 19:36:43 - DEBUG - Note found in API: [{'id': '6a66147506f2370295f92310', 'title': 'title996', 'description': 'this is random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-26T14:06:45.155Z', 'updated_at': '2026-07-26T14:06:45.155Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a66145b06f2370295f922f5', 'title': 'title629', 'description': 'a random description', 'category': 'Personal', 'completed': True, 'created_at': '2026-07-26T14:06:19.065Z', 'updated_at': '2026-07-26T14:06:19.065Z', 'user_id': '69fa990381124e02985a971b'}, {'id': '6a66143106f2370295f922da', 'title': 'Title', 'description': 'avjlqhbrvq;kv', 'category': 'Home', 'completed': False, 'created_at': '2026-07-26T14:05:37.948Z', 'updated_at': '2026-07-26T14:05:37.948Z', 'user_id': '69fa990381124e02985a971b'}] - test_new_notes
+2026-07-26 19:36:43 - DEBUG - deleting note with title: title996 - NotePage
+2026-07-26 19:36:46 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 19:36:51 - INFO - note is created and is visible - test_new_notes
+2026-07-26 19:36:51 - INFO - note is delted - test_new_notes
+2026-07-26 19:36:54 - DEBUG - Starting login process - LoginPage
+2026-07-26 19:36:54 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 19:36:57 - DEBUG - Filling in email: saisaiiii@gmail.com - LoginPage
+2026-07-26 19:36:57 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 19:36:57 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-26 19:36:57 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 19:36:57 - DEBUG - Login process completed - LoginPage
+2026-07-26 19:36:57 - DEBUG - ending page - conftest
+2026-07-26 20:04:07 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:04:13 - DEBUG - adding new note - NotePage
+2026-07-26 20:04:13 - DEBUG - choosing category - NotePage
+2026-07-26 20:04:13 - DEBUG - filling title - NotePage
+2026-07-26 20:04:13 - DEBUG - filling description - NotePage
+2026-07-26 20:04:14 - DEBUG - submitting this note - NotePage
+2026-07-26 20:04:14 - DEBUG - deleting note with title: title318 - NotePage
+2026-07-26 20:06:22 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:06:33 - DEBUG - adding new note - NotePage
+2026-07-26 20:06:33 - DEBUG - choosing category - NotePage
+2026-07-26 20:06:34 - DEBUG - filling title - NotePage
+2026-07-26 20:06:34 - DEBUG - filling description - NotePage
+2026-07-26 20:06:34 - DEBUG - submitting this note - NotePage
+2026-07-26 20:06:35 - DEBUG - deleting note with title: title78 - NotePage
+2026-07-26 20:12:44 - DEBUG - ending page - conftest
+2026-07-26 20:12:44 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:12:44 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:12:48 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-26 20:12:48 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:12:48 - DEBUG - Filling in password: 1455636475869 - LoginPage
+2026-07-26 20:12:48 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:12:49 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:12:50 - DEBUG - ending page - conftest
+2026-07-26 20:12:50 - DEBUG - Trying to login with empty credentials - tests.ui.test_login
+2026-07-26 20:12:50 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:12:50 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:12:54 - DEBUG - Filling in email:  - LoginPage
+2026-07-26 20:12:54 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:12:54 - DEBUG - Filling in password:  - LoginPage
+2026-07-26 20:12:54 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:12:54 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:12:54 - DEBUG - ending page - conftest
+2026-07-26 20:12:54 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:12:54 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:12:57 - DEBUG - Filling in email: saisaiiii@gmail.com - LoginPage
+2026-07-26 20:12:57 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:12:57 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-26 20:12:57 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:12:57 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:12:58 - DEBUG - ending page - conftest
+2026-07-26 20:13:41 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:13:41 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:13:43 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-26 20:13:43 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:13:43 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-26 20:13:43 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:13:43 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:13:44 - DEBUG - ending page - conftest
+2026-07-26 20:13:44 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:13:44 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:13:47 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-26 20:13:47 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:13:47 - DEBUG - Filling in password: 1455636475869 - LoginPage
+2026-07-26 20:13:47 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:13:49 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:13:49 - DEBUG - ending page - conftest
+2026-07-26 20:13:49 - DEBUG - Trying to login with empty credentials - tests.ui.test_login
+2026-07-26 20:13:49 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:13:49 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:13:53 - DEBUG - Filling in email:  - LoginPage
+2026-07-26 20:13:53 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:13:53 - DEBUG - Filling in password:  - LoginPage
+2026-07-26 20:13:53 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:13:53 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:13:53 - DEBUG - ending page - conftest
+2026-07-26 20:13:53 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:13:53 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:13:56 - DEBUG - Filling in email: saisaiiii@gmail.com - LoginPage
+2026-07-26 20:13:56 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:13:56 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-26 20:13:56 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:13:57 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:13:57 - DEBUG - ending page - conftest
+2026-07-26 20:24:02 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:24:02 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:24:03 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-26 20:24:03 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:24:03 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-26 20:24:03 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:24:04 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:24:05 - DEBUG - ending page - conftest
+2026-07-26 20:24:05 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:24:05 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:24:08 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-26 20:24:08 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:24:08 - DEBUG - Filling in password: 1455636475869 - LoginPage
+2026-07-26 20:24:08 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:24:08 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:24:09 - DEBUG - ending page - conftest
+2026-07-26 20:24:09 - DEBUG - Trying to login with empty credentials - tests.ui.test_login
+2026-07-26 20:24:09 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:24:09 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:24:12 - DEBUG - Filling in email:  - LoginPage
+2026-07-26 20:24:12 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:24:12 - DEBUG - Filling in password:  - LoginPage
+2026-07-26 20:24:12 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:24:13 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:24:13 - DEBUG - ending page - conftest
+2026-07-26 20:24:13 - DEBUG - Adding new note - tests.ui.test_note
+2026-07-26 20:24:22 - DEBUG - adding new note - NotePage
+2026-07-26 20:24:22 - DEBUG - choosing category - NotePage
+2026-07-26 20:24:22 - DEBUG - filling title - NotePage
+2026-07-26 20:24:22 - DEBUG - filling description - NotePage
+2026-07-26 20:24:22 - DEBUG - submitting this note - NotePage
+2026-07-26 20:24:24 - DEBUG - deleting note with title: Title376 - NotePage
+2026-07-26 20:24:24 - DEBUG - Creating note with only title - tests.ui.test_note
+2026-07-26 20:24:28 - DEBUG - adding new note - NotePage
+2026-07-26 20:24:28 - DEBUG - choosing category - NotePage
+2026-07-26 20:24:28 - DEBUG - filling title - NotePage
+2026-07-26 20:24:28 - DEBUG - filling description - NotePage
+2026-07-26 20:24:28 - DEBUG - submitting this note - NotePage
+2026-07-26 20:24:28 - DEBUG - Testing whether a note appears without refresh - tests.ui.test_note
+2026-07-26 20:24:32 - DEBUG - adding new note - NotePage
+2026-07-26 20:24:33 - DEBUG - choosing category - NotePage
+2026-07-26 20:24:33 - DEBUG - filling title - NotePage
+2026-07-26 20:24:33 - DEBUG - filling description - NotePage
+2026-07-26 20:24:33 - DEBUG - submitting this note - NotePage
+2026-07-26 20:24:33 - DEBUG - New note was successfully created - tests.ui.test_note
+2026-07-26 20:24:34 - DEBUG - deleting note with title: title474 - NotePage
+2026-07-26 20:24:35 - CRITICAL - Testing creation of note with empty title - tests.ui.test_note
+2026-07-26 20:24:38 - DEBUG - adding new note - NotePage
+2026-07-26 20:24:38 - DEBUG - choosing category - NotePage
+2026-07-26 20:24:38 - DEBUG - filling title - NotePage
+2026-07-26 20:24:38 - DEBUG - filling description - NotePage
+2026-07-26 20:24:38 - DEBUG - submitting this note - NotePage
+2026-07-26 20:24:39 - CRITICAL - Testing note creation with a blank title - tests.ui.test_note
+2026-07-26 20:24:42 - DEBUG - adding new note - NotePage
+2026-07-26 20:24:42 - DEBUG - choosing category - NotePage
+2026-07-26 20:24:42 - DEBUG - filling title - NotePage
+2026-07-26 20:24:42 - DEBUG - filling description - NotePage
+2026-07-26 20:24:42 - DEBUG - submitting this note - NotePage
+2026-07-26 20:24:46 - DEBUG - adding new note - NotePage
+2026-07-26 20:24:46 - DEBUG - choosing category - NotePage
+2026-07-26 20:24:46 - DEBUG - filling title - NotePage
+2026-07-26 20:24:46 - DEBUG - filling description - NotePage
+2026-07-26 20:24:47 - DEBUG - submitting this note - NotePage
+2026-07-26 20:24:48 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-26 20:24:52 - DEBUG - adding new note - NotePage
+2026-07-26 20:24:52 - DEBUG - choosing category - NotePage
+2026-07-26 20:24:52 - DEBUG - filling title - NotePage
+2026-07-26 20:24:52 - DEBUG - filling description - NotePage
+2026-07-26 20:24:52 - DEBUG - submitting this note - NotePage
+2026-07-26 20:24:52 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:24:52 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:24:56 - DEBUG - Filling in email: saisaiiii@gmail.com - LoginPage
+2026-07-26 20:24:56 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:24:56 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-26 20:24:56 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:24:56 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:24:57 - DEBUG - ending page - conftest
+2026-07-26 20:33:29 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:33:29 - DEBUG - Testing GET /notes response - tests.api.test_note_api
+2026-07-26 20:33:29 - DEBUG - Testing GET /notes for a new user - tests.api.test_note_api
+2026-07-26 20:33:31 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:33:31 - CRITICAL - Testing GET /notes/{id} endpoint - tests.api.test_note_api
+2026-07-26 20:33:31 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:33:31 - CRITICAL - Testing that deleting a deleted note returns status code 404 - tests.api.test_note_api
+2026-07-26 20:33:32 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:33:32 - DEBUG - Testing GET /notes response time - tests.api.test_note_api
+2026-07-26 20:33:32 - DEBUG - Making request 1 to /notes endpoint - tests.api.test_note_api
+2026-07-26 20:33:32 - DEBUG - Making request 2 to /notes endpoint - tests.api.test_note_api
+2026-07-26 20:33:33 - DEBUG - Making request 3 to /notes endpoint - tests.api.test_note_api
+2026-07-26 20:33:33 - DEBUG - Making request 4 to /notes endpoint - tests.api.test_note_api
+2026-07-26 20:33:33 - DEBUG - Making request 5 to /notes endpoint - tests.api.test_note_api
+2026-07-26 20:33:34 - INFO - Average response time: 366.91 ms - tests.api.test_note_api
+2026-07-26 20:33:34 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:33:34 - CRITICAL - Testing POST /notes response time - tests.api.test_note_api
+2026-07-26 20:33:37 - INFO - Average response time for POST /notes: 345.81 ms - tests.api.test_note_api
+2026-07-26 20:33:37 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:33:37 - CRITICAL - Testing DELETE /notes response time - tests.api.test_note_api
+2026-07-26 20:33:41 - INFO - Average DELETE response time: 339.24 ms - tests.api.test_note_api
+2026-07-26 20:33:41 - CRITICAL - Testing access to GET /notes without authentication - tests.api.test_note_api
+2026-07-26 20:33:41 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:33:48 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:33:48 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:33:50 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-26 20:33:50 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:33:50 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-26 20:33:50 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:33:50 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:33:51 - DEBUG - ending page - conftest
+2026-07-26 20:33:51 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:33:51 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:33:54 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-26 20:33:54 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:33:54 - DEBUG - Filling in password: 1455636475869 - LoginPage
+2026-07-26 20:33:55 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:33:55 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:33:55 - DEBUG - ending page - conftest
+2026-07-26 20:33:56 - DEBUG - Trying to login with empty credentials - tests.ui.test_login
+2026-07-26 20:33:56 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:33:56 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:33:58 - DEBUG - Filling in email:  - LoginPage
+2026-07-26 20:33:58 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:33:58 - DEBUG - Filling in password:  - LoginPage
+2026-07-26 20:33:58 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:33:58 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:33:58 - DEBUG - ending page - conftest
+2026-07-26 20:33:59 - DEBUG - Adding new note - tests.ui.test_note
+2026-07-26 20:34:03 - DEBUG - adding new note - NotePage
+2026-07-26 20:34:03 - DEBUG - choosing category - NotePage
+2026-07-26 20:34:03 - DEBUG - filling title - NotePage
+2026-07-26 20:34:03 - DEBUG - filling description - NotePage
+2026-07-26 20:34:03 - DEBUG - submitting this note - NotePage
+2026-07-26 20:34:05 - DEBUG - deleting note with title: Title845 - NotePage
+2026-07-26 20:34:06 - DEBUG - Creating note with only title - tests.ui.test_note
+2026-07-26 20:34:09 - DEBUG - adding new note - NotePage
+2026-07-26 20:34:09 - DEBUG - choosing category - NotePage
+2026-07-26 20:34:09 - DEBUG - filling title - NotePage
+2026-07-26 20:34:09 - DEBUG - filling description - NotePage
+2026-07-26 20:34:09 - DEBUG - submitting this note - NotePage
+2026-07-26 20:34:09 - DEBUG - Testing whether a note appears without refresh - tests.ui.test_note
+2026-07-26 20:34:13 - DEBUG - adding new note - NotePage
+2026-07-26 20:34:13 - DEBUG - choosing category - NotePage
+2026-07-26 20:34:13 - DEBUG - filling title - NotePage
+2026-07-26 20:34:13 - DEBUG - filling description - NotePage
+2026-07-26 20:34:13 - DEBUG - submitting this note - NotePage
+2026-07-26 20:34:13 - DEBUG - New note was successfully created - tests.ui.test_note
+2026-07-26 20:34:13 - DEBUG - deleting note with title: title660 - NotePage
+2026-07-26 20:34:17 - CRITICAL - Testing creation of note with empty title - tests.ui.test_note
+2026-07-26 20:34:21 - DEBUG - adding new note - NotePage
+2026-07-26 20:34:21 - DEBUG - choosing category - NotePage
+2026-07-26 20:34:22 - DEBUG - filling title - NotePage
+2026-07-26 20:34:22 - DEBUG - filling description - NotePage
+2026-07-26 20:34:22 - DEBUG - submitting this note - NotePage
+2026-07-26 20:34:22 - CRITICAL - Testing note creation with a blank title - tests.ui.test_note
+2026-07-26 20:34:26 - DEBUG - adding new note - NotePage
+2026-07-26 20:34:26 - DEBUG - choosing category - NotePage
+2026-07-26 20:34:26 - DEBUG - filling title - NotePage
+2026-07-26 20:34:26 - DEBUG - filling description - NotePage
+2026-07-26 20:34:27 - DEBUG - submitting this note - NotePage
+2026-07-26 20:36:33 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:36:33 - DEBUG - Testing GET /notes response - tests.api.test_note_api
+2026-07-26 20:36:34 - INFO - Notes are accessible - tests.api.test_note_api
+2026-07-26 20:36:34 - DEBUG - Testing GET /notes for a new user - tests.api.test_note_api
+2026-07-26 20:36:35 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:36:35 - CRITICAL - Testing GET /notes/{id} endpoint - tests.api.test_note_api
+2026-07-26 20:36:36 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:36:36 - CRITICAL - Testing that deleting a deleted note returns status code 404 - tests.api.test_note_api
+2026-07-26 20:36:37 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:36:37 - DEBUG - Testing GET /notes response time - tests.api.test_note_api
+2026-07-26 20:36:37 - DEBUG - Making request 1 to /notes endpoint - tests.api.test_note_api
+2026-07-26 20:36:38 - DEBUG - Making request 2 to /notes endpoint - tests.api.test_note_api
+2026-07-26 20:36:38 - DEBUG - Making request 3 to /notes endpoint - tests.api.test_note_api
+2026-07-26 20:36:39 - DEBUG - Making request 4 to /notes endpoint - tests.api.test_note_api
+2026-07-26 20:36:39 - DEBUG - Making request 5 to /notes endpoint - tests.api.test_note_api
+2026-07-26 20:36:39 - INFO - Average response time: 342.20 ms - tests.api.test_note_api
+2026-07-26 20:36:39 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:36:39 - CRITICAL - Testing POST /notes response time - tests.api.test_note_api
+2026-07-26 20:36:43 - INFO - Average response time for POST /notes: 357.89 ms - tests.api.test_note_api
+2026-07-26 20:36:43 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:36:43 - CRITICAL - Testing DELETE /notes response time - tests.api.test_note_api
+2026-07-26 20:36:46 - INFO - Average DELETE response time: 361.41 ms - tests.api.test_note_api
+2026-07-26 20:36:46 - CRITICAL - Testing access to GET /notes without authentication - tests.api.test_note_api
+2026-07-26 20:36:47 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:36:51 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:36:51 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:36:53 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-26 20:36:53 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:36:53 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-26 20:36:53 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:36:53 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:36:55 - DEBUG - ending page - conftest
+2026-07-26 20:36:55 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:36:55 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:36:57 - DEBUG - Filling in email: saiviveksapelly@gmail.com - LoginPage
+2026-07-26 20:36:57 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:36:57 - DEBUG - Filling in password: 1455636475869 - LoginPage
+2026-07-26 20:36:57 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:36:58 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:36:59 - DEBUG - ending page - conftest
+2026-07-26 20:36:59 - DEBUG - Trying to login with empty credentials - tests.ui.test_login
+2026-07-26 20:36:59 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:36:59 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:37:02 - DEBUG - Filling in email:  - LoginPage
+2026-07-26 20:37:02 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:37:02 - DEBUG - Filling in password:  - LoginPage
+2026-07-26 20:37:02 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:37:03 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:37:03 - DEBUG - ending page - conftest
+2026-07-26 20:37:03 - DEBUG - Adding new note - tests.ui.test_note
+2026-07-26 20:37:06 - DEBUG - adding new note - NotePage
+2026-07-26 20:37:06 - DEBUG - choosing category - NotePage
+2026-07-26 20:37:07 - DEBUG - filling title - NotePage
+2026-07-26 20:37:07 - DEBUG - filling description - NotePage
+2026-07-26 20:37:07 - DEBUG - submitting this note - NotePage
+2026-07-26 20:37:09 - DEBUG - deleting note with title: Title82 - NotePage
+2026-07-26 20:37:10 - DEBUG - Creating note with only title - tests.ui.test_note
+2026-07-26 20:37:13 - DEBUG - adding new note - NotePage
+2026-07-26 20:37:13 - DEBUG - choosing category - NotePage
+2026-07-26 20:37:13 - DEBUG - filling title - NotePage
+2026-07-26 20:37:13 - DEBUG - filling description - NotePage
+2026-07-26 20:37:13 - DEBUG - submitting this note - NotePage
+2026-07-26 20:37:14 - DEBUG - Testing whether a note appears without refresh - tests.ui.test_note
+2026-07-26 20:37:17 - DEBUG - adding new note - NotePage
+2026-07-26 20:37:17 - DEBUG - choosing category - NotePage
+2026-07-26 20:37:17 - DEBUG - filling title - NotePage
+2026-07-26 20:37:17 - DEBUG - filling description - NotePage
+2026-07-26 20:37:17 - DEBUG - submitting this note - NotePage
+2026-07-26 20:37:17 - DEBUG - New note was successfully created - tests.ui.test_note
+2026-07-26 20:37:19 - DEBUG - deleting note with title: title633 - NotePage
+2026-07-26 20:37:20 - CRITICAL - Testing creation of note with empty title - tests.ui.test_note
+2026-07-26 20:37:24 - DEBUG - adding new note - NotePage
+2026-07-26 20:37:24 - DEBUG - choosing category - NotePage
+2026-07-26 20:37:25 - DEBUG - filling title - NotePage
+2026-07-26 20:37:25 - DEBUG - filling description - NotePage
+2026-07-26 20:37:25 - DEBUG - submitting this note - NotePage
+2026-07-26 20:37:25 - CRITICAL - Testing note creation with a blank title - tests.ui.test_note
+2026-07-26 20:37:28 - DEBUG - adding new note - NotePage
+2026-07-26 20:37:28 - DEBUG - choosing category - NotePage
+2026-07-26 20:37:28 - DEBUG - filling title - NotePage
+2026-07-26 20:37:28 - DEBUG - filling description - NotePage
+2026-07-26 20:37:29 - DEBUG - submitting this note - NotePage
+2026-07-26 20:37:32 - DEBUG - adding new note - NotePage
+2026-07-26 20:37:32 - DEBUG - choosing category - NotePage
+2026-07-26 20:37:32 - DEBUG - filling title - NotePage
+2026-07-26 20:37:33 - DEBUG - filling description - NotePage
+2026-07-26 20:37:33 - DEBUG - submitting this note - NotePage
+2026-07-26 20:37:35 - DEBUG - deleting note with title: $@!<!>[# - NotePage
+2026-07-26 20:37:39 - DEBUG - adding new note - NotePage
+2026-07-26 20:37:39 - DEBUG - choosing category - NotePage
+2026-07-26 20:37:39 - DEBUG - filling title - NotePage
+2026-07-26 20:37:39 - DEBUG - filling description - NotePage
+2026-07-26 20:37:39 - DEBUG - submitting this note - NotePage
+2026-07-26 20:37:39 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:37:42 - DEBUG - adding new note - NotePage
+2026-07-26 20:37:42 - DEBUG - choosing category - NotePage
+2026-07-26 20:37:42 - DEBUG - filling title - NotePage
+2026-07-26 20:37:42 - DEBUG - filling description - NotePage
+2026-07-26 20:37:42 - DEBUG - submitting this note - NotePage
+2026-07-26 20:37:43 - DEBUG - deleting note with title: title129 - NotePage
+2026-07-26 20:37:45 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-26 20:37:49 - INFO - Note is visible in UI - test_new_notes
+2026-07-26 20:37:49 - INFO - Note deleted successfully - test_new_notes
+2026-07-26 20:37:52 - DEBUG - Starting login process - LoginPage
+2026-07-26 20:37:52 - DEBUG - Navigating to login page: https://practice.expandtesting.com/notes/app/login - LoginPage
+2026-07-26 20:37:56 - DEBUG - Filling in email: saisaiiii@gmail.com - LoginPage
+2026-07-26 20:37:56 - CRITICAL - filled in successfully - LoginPage
+2026-07-26 20:37:56 - DEBUG - Filling in password: 142536475869 - LoginPage
+2026-07-26 20:37:56 - DEBUG - Clicking the login button - LoginPage
+2026-07-26 20:37:56 - DEBUG - Login process completed - LoginPage
+2026-07-26 20:37:57 - DEBUG - ending page - conftest

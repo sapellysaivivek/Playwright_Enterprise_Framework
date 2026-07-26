@@ -1,0 +1,25 @@
+[pytest]
+
+python_files = test_*.py
+python_classes = Test*
+python_functions = test_*
+
+testpaths = tests
+
+markers =
+    ui: UI Test Cases
+    api: API Test Cases
+
+addopts =
+    -v
+    --tb=short
+    --strict-markers
+    --alluredir=allure-results
+    --html=reports/report.html
+    --self-contained-html
+
+log_cli = true
+log_cli_level = INFO
+
+filterwarnings =
+    ignore::DeprecationWarning

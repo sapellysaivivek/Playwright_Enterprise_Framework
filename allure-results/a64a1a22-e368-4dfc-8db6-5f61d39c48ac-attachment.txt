@@ -1,0 +1,8 @@
+[31mCRITICAL[0m conftest:conftest.py:34 backend_url:https://practice.expandtesting.com/notes/api/
+[35mDEBUG   [0m tests.api.test_note_api:test_note_api.py:250 Testing GET /notes response time
+[35mDEBUG   [0m tests.api.test_note_api:test_note_api.py:259 Making request 1 to /notes endpoint
+[35mDEBUG   [0m tests.api.test_note_api:test_note_api.py:259 Making request 2 to /notes endpoint
+[35mDEBUG   [0m tests.api.test_note_api:test_note_api.py:259 Making request 3 to /notes endpoint
+[35mDEBUG   [0m tests.api.test_note_api:test_note_api.py:259 Making request 4 to /notes endpoint
+[35mDEBUG   [0m tests.api.test_note_api:test_note_api.py:259 Making request 5 to /notes endpoint
+[32mINFO    [0m tests.api.test_note_api:test_note_api.py:293 Average response time: 366.91 ms

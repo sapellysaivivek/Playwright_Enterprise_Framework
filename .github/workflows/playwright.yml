@@ -1,29 +1,67 @@
 name: Playwright Tests
+
 on:
   push:
-    branches: [ main, master ]
+    branches:
+      - main
+      - master
+
   pull_request:
-    branches: [ main, master ]
+    branches:
+      - main
+      - master
+
+  workflow_dispatch:
+
 jobs:
-  test:
-    timeout-minutes: 60
+  playwright-tests:
+
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v5
-    - name: Set up Python
-      uses: actions/setup-python@v6
-      with:
-        python-version: '3.13'
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    - name: Ensure browsers are installed
-      run: python -m playwright install --with-deps
-    - name: Run your tests
-      run: pytest --tracing=retain-on-failure
-    - uses: actions/upload-artifact@v4
-      if: ${{ !cancelled() }}
-      with:
-        name: playwright-traces
-        path: test-results/
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright Browsers
+        run: |
+          playwright install --with-deps chromium
+
+      - name: Create .env file
+        run: |
+          echo "BASE_URL=${{ secrets.BASE_URL }}" >> .env
+          echo "token=${{ secrets.TOKEN }}" >> .env
+
+      - name: Run Tests
+        run: |
+          pytest
+
+      - name: Upload Allure Results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-results
+          path: allure-results
+
+      - name: Upload Screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: screenshots
+          path: screenshots
+
+      - name: Upload HTML Report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pytest-html-report
+          path: reports

@@ -1,0 +1,2 @@
+[31mCRITICAL[0m conftest:conftest.py:34 backend_url:https://practice.expandtesting.com/notes/api/
+[31mCRITICAL[0m tests.api.test_note_api:test_note_api.py:197 Testing that deleting a deleted note returns status code 404
