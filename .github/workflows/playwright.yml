@@ -1,4 +1,4 @@
-name: Playwright Cross Browser Tests
+name: Playwright Tests
 
 on:
   push:
@@ -14,71 +14,54 @@ on:
   workflow_dispatch:
 
 jobs:
-  test:
+  playwright-tests:
 
-    name: ${{ matrix.browser }}
     runs-on: ubuntu-latest
 
-    strategy:
-      fail-fast: false
-      matrix:
-        browser:
-          - chromium
-          - firefox
-          - webkit
-
     steps:
-
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install Dependencies
+      - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Install Playwright Browsers
         run: |
-          playwright install --with-deps
+          playwright install --with-deps chromium
 
-      - name: Create .env
+      - name: Create .env file
         run: |
           echo "BASE_URL=${{ secrets.BASE_URL }}" >> .env
-          echo "TOKEN=${{ secrets.TOKEN }}" >> .env
+          echo "token=${{ secrets.TOKEN }}" >> .env
 
       - name: Run Tests
         run: |
-          pytest --browser=${{ matrix.browser }}
+          pytest
 
       - name: Upload Allure Results
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: allure-results-${{ matrix.browser }}
+          name: allure-results
           path: allure-results
-
-      - name: Upload HTML Report
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: pytest-report-${{ matrix.browser }}
-          path: reports
 
       - name: Upload Screenshots
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: screenshots-${{ matrix.browser }}
+          name: screenshots
           path: screenshots
 
-      - name: Upload Playwright Traces
+      - name: Upload HTML Report
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: traces-${{ matrix.browser }}
-          path: traces
+          name: pytest-html-report
+          path: reports
