@@ -1,4 +1,10 @@
+playwright
 pytest
 pytest-playwright
-dotenv
+pytest-html
 allure-pytest
+python-dotenv
+requests
+pytest-xdist
+pytest-rerunfailures
+Faker

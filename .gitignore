@@ -1,2 +1,13 @@
 .env
-venv
+
+state.json
+
+allure-results/
+
+reports/
+
+__pycache__/
+
+.pytest_cache/
+
+.venv/

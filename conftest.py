@@ -12,6 +12,7 @@ Back_end_url = os.getenv("BASE_URL")
 
 
 logger = getloggings(__name__)
+
 @pytest.fixture
 def page(page : Page):
     yield page
