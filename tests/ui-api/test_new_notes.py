@@ -53,7 +53,7 @@ def test_UI_created_note_appears_in_Api(auth_page, auth_request):
     with allure.step("Delete the created note"):
         notepage.deleteNote(title)
 #TC-14 testing note is not visible after API Deletion
-@pytest.mark.testu
+@pytest.mark.ui_api
 @allure.story("Delete note using API")
 @allure.title("Verify note is not visible in UI after API deletion")
 @allure.description(
