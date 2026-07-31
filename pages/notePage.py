@@ -28,7 +28,7 @@ class NotePage:
     def deleteNote(self ,title):
         note = self.page.locator('[data-testid="note-card"]').filter(
         has=self.page.locator('[data-testid="note-card-title"]', has_text=title))
-        delete_btn = note.get_by_test_id("note-delete")
+        delete_btn = note.get_by_text("Delete")
         self.logger.debug(f"deleting note with title: {title}")
         delete_btn.click()
         self.page.get_by_test_id("note-delete-confirm").click()
