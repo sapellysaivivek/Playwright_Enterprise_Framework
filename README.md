@@ -123,7 +123,7 @@ GitHub Actions is configured to automatically:
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/sapellysaivivek/Playwright_Enterprise_Framework.git
 ```
 
 Navigate to the project:
