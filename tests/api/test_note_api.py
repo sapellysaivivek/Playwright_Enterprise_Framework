@@ -8,9 +8,8 @@ import random
 import os
 import allure
 import json
-from dotenv import load_dotenv
-load_dotenv()
-backend_url = os.getenv("BASE_URL")
+from config.config import Backend_Base_Url
+Backend_url = Backend_Base_Url
 logger = getloggings(__name__)
 
 @allure.epic("Note Application")
@@ -458,7 +457,7 @@ def test_accessing_notes_without_authentication(playwright: Playwright):
     logger.critical("Testing access to GET /notes without authentication")
 
     with allure.step("Create an unauthenticated API request context"):
-        req = playwright.request.new_context(base_url=backend_url)
+        req = playwright.request.new_context(base_url=Backend_url)
 
     try:
         with allure.step("Send GET /notes request without authentication"):
@@ -510,7 +509,7 @@ def test_delete_with_auth_token(auth_request, playwright: Playwright):
 
     with allure.step("Create an unauthenticated API request context"):
 
-        req = playwright.request.new_context(base_url=backend_url)
+        req = playwright.request.new_context(base_url=Backend_url)
 
     try:
         with allure.step("Attempt to delete the note without authentication"):
