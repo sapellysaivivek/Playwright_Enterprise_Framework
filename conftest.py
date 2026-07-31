@@ -9,6 +9,7 @@ load_dotenv()
 from config.config import Base_url
 token = os.getenv("token")
 Back_end_url = os.getenv("BASE_URL")
+from authentication.auth_client import get_token
 
 
 logger = getloggings(__name__)
@@ -29,6 +30,7 @@ def auth_page(browser):
 
 @pytest.fixture
 def auth_request(playwright : Playwright) -> Generator[APIRequestContext , 0 ,0]:
+    token = get_token()
     header = {
         "x-auth-token" : f"{token}"
     }

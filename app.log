@@ -1378,3 +1378,29 @@
 2026-07-27 18:33:13 - DEBUG - Clicking the login button - LoginPage
 2026-07-27 18:33:13 - DEBUG - Login process completed - LoginPage
 2026-07-27 18:33:14 - DEBUG - ending page - conftest
+2026-07-31 11:48:40 - DEBUG - Testing GET /notes for a new user - tests.api.test_note_api
+2026-07-31 11:48:44 - CRITICAL - Testing access to GET /notes without authentication - tests.api.test_note_api
+2026-07-31 12:08:24 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-31 12:08:25 - DEBUG - Testing GET /notes response - tests.api.test_note_api
+2026-07-31 12:08:26 - INFO - Notes are accessible - tests.api.test_note_api
+2026-07-31 12:08:26 - DEBUG - Testing GET /notes for a new user - tests.api.test_note_api
+2026-07-31 12:08:29 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-31 12:08:29 - CRITICAL - Testing GET /notes/{id} endpoint - tests.api.test_note_api
+2026-07-31 12:08:31 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-31 12:08:31 - CRITICAL - Testing that deleting a deleted note returns status code 404 - tests.api.test_note_api
+2026-07-31 12:08:33 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-31 12:08:33 - DEBUG - Testing GET /notes response time - tests.api.test_note_api
+2026-07-31 12:08:33 - DEBUG - Making request 1 to /notes endpoint - tests.api.test_note_api
+2026-07-31 12:08:34 - DEBUG - Making request 2 to /notes endpoint - tests.api.test_note_api
+2026-07-31 12:08:34 - DEBUG - Making request 3 to /notes endpoint - tests.api.test_note_api
+2026-07-31 12:08:34 - DEBUG - Making request 4 to /notes endpoint - tests.api.test_note_api
+2026-07-31 12:08:35 - DEBUG - Making request 5 to /notes endpoint - tests.api.test_note_api
+2026-07-31 12:08:35 - INFO - Average response time: 366.41 ms - tests.api.test_note_api
+2026-07-31 12:08:36 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-31 12:08:36 - CRITICAL - Testing POST /notes response time - tests.api.test_note_api
+2026-07-31 12:08:40 - INFO - Average response time for POST /notes: 463.06 ms - tests.api.test_note_api
+2026-07-31 12:08:41 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
+2026-07-31 12:08:41 - CRITICAL - Testing DELETE /notes response time - tests.api.test_note_api
+2026-07-31 12:08:45 - INFO - Average DELETE response time: 428.19 ms - tests.api.test_note_api
+2026-07-31 12:08:46 - CRITICAL - Testing access to GET /notes without authentication - tests.api.test_note_api
+2026-07-31 12:08:47 - CRITICAL - backend_url:https://practice.expandtesting.com/notes/api/ - conftest
