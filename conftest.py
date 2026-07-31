@@ -4,11 +4,10 @@ from utils.logger import getloggings
 import pytest
 import os 
 import allure
-from dotenv import load_dotenv
-load_dotenv()
-from config.config import Base_url
-token = os.getenv("token")
-Back_end_url = os.getenv("BASE_URL")
+
+from config.config import Base_url , EMAIL , PASSWORD , Backend_Base_Url
+
+Back_end_url = Backend_Base_Url
 from authentication.auth_client import get_token
 
 
